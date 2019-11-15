@@ -1,1 +1,238 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-15T09:52:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-15T09:59:31+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">Wetland classification systems</title><link href="http://localhost:4000/blog/wetland-class-ref/" rel="alternate" type="text/html" title="Wetland classification systems" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-ref</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-ref/">&lt;p&gt;An attempt to identify different wetland classification systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
+
+&lt;h3 id=&quot;wikipedia&quot;&gt;Wikipedia&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Wetland_classification&quot;&gt;Wikipedia&lt;/a&gt; has a short note on Wetland classification.&lt;/p&gt;
+
+&lt;h3 id=&quot;wetland-international-frazier-1996&quot;&gt;Wetland International (Frazier, 1996)&lt;/h3&gt;
+
+&lt;p&gt;Frazier, S. 1996. An overview of the world’s Ramsar sites. Wetlands International Publ.29. 58 p.
+&lt;a href=&quot;https://www.worldcat.org/title/overview-of-the-worlds-ramsar-sites/oclc/882896416&quot;&gt;Library availability&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wetlands can generally be classified into five basic systems, namely: Lacustrine, Riverine, Palustrine, Marine and Estuarine (Frazier, 1996).&lt;/p&gt;
+
+&lt;h3 id=&quot;australia-terrestrial-ecosystem-research-network-tern&quot;&gt;Australia Terrestrial Ecosystem Research Network (TERN)&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.auscover.org.au/about-us/tern/&quot;&gt;Australia Terrestrial Ecosystem Research Network (TERN)&lt;/a&gt; have published an online  &lt;a href=&quot;http://wiki.auscover.net.au/wiki/Wetland_Classification&quot;&gt;review of wetland classifications&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;books&quot;&gt;books&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://link.springer.com/referencework/10.1007/978-94-007-6172-8&quot;&gt;Finlayson et al., 2016 The Wetland Book, Springer&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tiner, USA Wetlands: NWI-Plus Classification System&lt;/li&gt;
+  &lt;li&gt;Semeniuk &amp;amp; Semeniuk, Wetland Classification: Geomorphic-Hydrologic System&lt;/li&gt;
+  &lt;li&gt;Gerbeaux, Finlayson, &amp;amp; van Dam, Wetland Classification: Overview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ramsar-classification&quot;&gt;Ramsar classification&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Ramsar_site&quot;&gt;Wikipedia article on Ramsar wetland classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fao.org/3/x6611e/x6611e03d.htm&quot;&gt;FAO summary of RAMSAR classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.environment.gov.au/water/wetlands/ramsar/wetland-type-classification&quot;&gt;Australian summarof RAMSAR classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rmi-data.sprep.org/system/files/RMI%20Ramsar%20Sites_appendix7.pdf&quot;&gt;Republic of the Marshall Islands, have a nice summary&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/Technical%20Report%2007_Wetland%20Classification%20Maps.pdf&quot;&gt;Ramsar report on wetlands in Colombo, Sri Lanka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/documents/library/strategic_framework_rsis_en.pdf&quot;&gt;Strategic Framework and guidelines for the future development of the List of Wetlands of International Importance of the Convention on Wetlands (Ramsar, Iran, 1971)&lt;/a&gt;: Contains appendices with definitions, but unclear if this is the updated documents.&lt;/p&gt;
+
+&lt;p&gt;All of the above have links to the RAMSAR web-page but on that site I can not find the proper document!&lt;/p&gt;
+
+&lt;p&gt;To avoid the weak point of Cowardin et al’s classification system [see below], the Convention on Wetlands developed a new and more comprehensive wetland classification system (adopted in 1990 and modified in 1996) – the Ramsar Classification System for Wetland Type.&lt;/p&gt;
+
+&lt;h2 id=&quot;united-states-environmental-protection-agency&quot;&gt;United States Environmental Protection Agency&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.epa.gov/wetlands/classification-and-types-wetlands#marshes&quot;&gt;Classification and Types of Wetlands&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cowardin-us-fish-and-wildlife-service&quot;&gt;Cowardin (U.S. Fish and Wildlife Service)&lt;/h4&gt;
+
+&lt;p&gt;One commonly used classification system for wetlands was developed by Cowardin and is described in &lt;a href=&quot;https://www.fws.gov/wetlands/documents/Classification-of-Wetlands-and-Deepwater-Habitats-of-the-United-States-2013.pdf&quot;&gt;Classification of Wetlands and Deepwater Habitats of the United States&lt;/a&gt;. The Cowardin system is used by the U.S. Fish and Wildlife Service for the National Wetlands Inventory. In this system, wetlands are classified by landscape position, vegetation cover and hydrologic regime. The Cowardin system includes five major wetland types: marine, tidal, lacustrine, palustrine and riverine.&lt;/p&gt;
+
+&lt;h4 id=&quot;us-army-corps-of-engineers&quot;&gt;U.S. Army Corps of Engineers&lt;/h4&gt;
+
+&lt;p&gt;Another common wetland classification system, used by the U.S. Army Corps of Engineers, was developed by Brinson and is described in A Hydrogeomorphic [HGM] Classification for Wetlands.  As the title implies, wetlands are classified by their geomorphic setting, dominant water source (e.g. precipitation, groundwater or surface water) and hydrodynamics. The hydrogeomorphic (HGM) includes five major wetland types: riverine, slope depressional, flat and fringe.&lt;/p&gt;
+
+&lt;p&gt;An updated version of the HGM system is available for &lt;a href=&quot;https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs143_010784.pdf&quot;&gt;US Department of Agriculture&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A more recent review is by Semeniuk (*2) &lt;a href=&quot;https://link.springer.com/referenceworkentry/10.1007%2F978-94-007-6172-8_331-1&quot;&gt;Wetland Classification: Hydrogeomorphic System&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;colorado&quot;&gt;Colorado&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;Riparian and Wetland Classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mathematica&quot;&gt;Mathematica&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coast.noaa.gov/data/docs/nerrs/NERRS_Classificaiton_Scheme_Documentation.pdf&quot;&gt;Habitat and Land Cover Classification Scheme for the National Estuarine Research Reserve System&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;new-zealand&quot;&gt;New Zealand&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/news/new-book-on-wetland-types-in-new-zealand&quot;&gt;Book on wetland types in New Zealand&lt;/a&gt;. The book is available for download (pdf) on &lt;a href=&quot;https://www.researchgate.net/publication/240311238_Wetland_Types_in_New_Zealand&quot;&gt;Researchgate&lt;/a&gt; or from the &lt;a href=&quot;https://www.doc.govt.nz/documents/science-and-technical/WetlandsBW.pdf&quot;&gt;government of New Zealand&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The book contains an outline of semi-hierarchical classification system for New Zealand wetlands.&lt;/p&gt;
+
+&lt;h2 id=&quot;australia&quot;&gt;Australia&lt;/h2&gt;
+
+&lt;p&gt;The Department of Environment and energy &lt;a href=&quot;http://www.environment.gov.au/water/wetlands/australian-wetlands-database/directory-important-wetlands&quot;&gt;Directory of Important Wetlands in Australia&lt;/a&gt; includes a classification system for wetlands, identifying 40 wetlands types divided in 3 main categroies:&lt;/p&gt;
+
+&lt;p&gt;http://www.environment.gov.au/water/wetlands/australian-wetlands-database/directory-important-wetlands&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A. Marine and Coastal Zone wetlands,&lt;/li&gt;
+  &lt;li&gt;B. Inland wetlands], and&lt;/li&gt;
+  &lt;li&gt;C. Human-made wetlands.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This system was agreed to by the then ANZECC Wetlands Network in 1994. It is based on that used by the Ramsar Convention in describing Wetlands of International Importance, but was modified slightly to suit the Australian situation in describing wetlands of national importance. The page linked above lists the 40 wetlands types.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wetlandinfo.des.qld.gov.au/wetlands/what-are-wetlands/definitions-classification/system-definitions.html&quot;&gt;Illustrated wetland classification for New South Wales&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://wetlandinfo.des.qld.gov.au/resources/static/pdf/facts-maps/mapping-method/p01769aa.pdf&quot;&gt;Environmental Protection Agency (2005) Wetland Mapping and Classification Methodology – Overall Framework – A Method to Provide Baseline Mapping and Classification for Wetlands in Queensland, Version 1.2, Queensland Government, Brisbane. ISBN 0 9757 344 6 6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;canada&quot;&gt;Canada&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.wetlandpolicy.ca/canadian-wetland-classification-system&quot;&gt;Canadian Wetland Classification System&lt;/a&gt; (National Wetlands Working Group 1997) is based on a hierarchical system, which includes (1) wetland class, (2) wetland form and (3) wetland type. The five wetland “classes” are differentiated by their developmental characteristics and the environment in which they exist. The five classes are: bog, fen, marsh, swamp, and shallow water. Some wetlands accumulate peat (partially-decomposed organic matter) and are called peatlands. Bogs and fens are the dominant peatland classes in Alberta, although some swamps and marshes can also accumulate peat. In contrast, shallow open water wetlands and many marshes and swamps do not accumulate peat.&lt;/p&gt;
+
+&lt;h2 id=&quot;literature-reviews&quot;&gt;Literature reviews&lt;/h2&gt;
+
+&lt;h3 id=&quot;scott-and-jones-1995&quot;&gt;Scott and Jones, 1995&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.jstor.org/stable/20046590?seq=1#metadata_info_tab_contents&quot;&gt;Classification and Inventory of Wetlands: A Global Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tiner-r&quot;&gt;Tiner, R.&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/publication/288226985_Ecology_of_Wetlands_Classification_Systems&quot;&gt;Ecology of Wetlands: Classification Systems
+In book: Encyclopedia of Inland Waters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://water.usgs.gov/nwsum/WSP2425/definitions.html&quot;&gt;Wetland Definitions and Classifications in the United States&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chapter in the book I contributed towards:
+&lt;a href=&quot;https://books.google.se/books?id=BHwZBwAAQBAJ&amp;amp;pg=PA19&amp;amp;lpg=PA19&amp;amp;dq=wetland+classification+schemes&amp;amp;source=bl&amp;amp;ots=vQ0zssxlKv&amp;amp;sig=ACfU3U153P4I3IUM_jzBI7fU-0AYKidWRg&amp;amp;hl=sv&amp;amp;sa=X&amp;amp;ved=2ahUKEwjvmLLgg7DlAhXplYsKHTJXBtE4FBDoATAGegQIAxAB#v=onepage&amp;amp;q=wetland%20classification%20schemes&amp;amp;f=false&quot;&gt;Classification of Wetland Types for Mapping and Large Scale Inventories.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://books.google.se/books?id=iL5ywoshPl0C&amp;amp;pg=PA262&amp;amp;lpg=PA262&amp;amp;dq=wetland+classification+schemes&amp;amp;source=bl&amp;amp;ots=CeHrpmf1Ma&amp;amp;sig=ACfU3U2Cpwr6gXaqCy5D9Ra0S5n7iEuCkQ&amp;amp;hl=sv&amp;amp;sa=X&amp;amp;ved=2ahUKEwjvmLLgg7DlAhXplYsKHTJXBtE4FBDoATAHegQIAhAB#v=onepage&amp;amp;q=wetland%20classification%20schemes&amp;amp;f=false&quot;&gt;Wetland classification&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;gerbeaux-p-et-al&quot;&gt;Gerbeaux, P. et al&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://link.springer.com/referenceworkentry/10.1007%2F978-94-007-6172-8_329-1&quot;&gt;The Wetland Book pp 1-8 | Cite as
+Wetland Classification: Overview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Wetlands are classified for many purposes: (1) to provide common terminology to describe similarities and differences among wetlands, (2) to group them for scientific studies and comparison, (3) to provide the foundation for conducting wetland inventories that report on the status, trends, functions, and condition of wetlands in specific geographic areas, and (4) for their conservation, use, and management. The criteria used in classification usually depend on the field of the experts creating the system and the information needs of the user. Most classification systems developed for natural resource management have used several features to group wetlands into similar types. These features include vegetation, hydrology, water chemistry, soils/substrate, and geomorphology. There are two basic approaches to classification: horizontal and vertical. A horizontal classification system is a simple listing of a finite number of types based on a few major characteristics. A vertical system employs a hierarchical approach that begins with general characteristics and then further subdivides groups into smaller and smaller units. Several classification schemes are summarized in this article: the Ramsar multinational classification system, a regional modification for East Africa, wetland classifications from the United States, Canada, and New Zealand, a geomorphic approach to global wetland classification, and a hydrogeomorphic approach used in the United States.&lt;/p&gt;
+
+&lt;h3 id=&quot;ellery-et-al-fast-ellery-är-author-nr-2&quot;&gt;Ellery et al (fast Ellery är author nr 2)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.researchgate.net/publication/226704051_Hierarchical_spatial_organization_and_prioritization_of_wetlands_A_conceptual_model_for_wetland_rehabilitation_in_South_Africa&quot;&gt;Hierarchical spatial organization and prioritization of wetlands: A conceptual model for wetland rehabilitation in South Africa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DOI: 10.1007/s11273-011-9212-8&lt;/p&gt;
+
+&lt;h3 id=&quot;mccarthy-and-tooth&quot;&gt;McCarthy and Tooth&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1177/0309133307073879&quot;&gt;Wetlands in drylands: geomorphological and sedimentological characteristics, with emphasis on examples from southern Africa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;###&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://link.springer.com/article/10.1023/A:1008207726826&quot;&gt;A geomorphic approach to global classification for natural inland wetlands and rationalization of the system used by the Ramsar Convention – a discussion&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.env.gov.yk.ca/animals-habitat/documents/canadian_wetland_classification_system.pdf&quot;&gt;National Wetlands Working Group. 1997. The Canadian Wetland Classification System, 2nd Edition. Warner, B.G. and C.D.A. Rubec (eds.), Wetlands Research Centre, University of Waterloo, Waterloo, ON, Canada. 68 p.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/forum/wi/ACF357.pdf&quot;&gt;Classification of natural inland, coastal, and anthropogenic wetlands - a proposal to the Ramsar Bureau
+for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Karttur GitHub repository overview</title><link href="http://localhost:4000/overview/overview-main/" rel="alternate" type="text/html" title="Karttur GitHub repository overview" /><published>2018-01-09T11:27:00+01:00</published><updated>2018-01-09T11:27:00+01:00</updated><id>http://localhost:4000/overview/overview-main</id><content type="html" xml:base="http://localhost:4000/overview/overview-main/">&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;
+- &lt;a href=&quot;#scaffolding&quot;&gt;Scaffolding&lt;/a&gt;
+- &lt;a href=&quot;#repositories&quot;&gt;Repositories&lt;/a&gt;
+  - &lt;a href=&quot;#overview&quot;&gt;overview&lt;/a&gt;
+  - &lt;a href=&quot;#setup-blog&quot;&gt;setup-blog&lt;/a&gt;
+  - &lt;a href=&quot;#setup-github&quot;&gt;setup-github&lt;/a&gt;
+  - &lt;a href=&quot;#setup-theme-blog&quot;&gt;setup-theme-blog&lt;/a&gt;
+  - &lt;a href=&quot;#setup-ide&quot;&gt;setup-ide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This blog is an attempt to create an overview of the contents in Karttur’s GitHub site. The site is organized in repositories, with each repository containing a blog, and some containing program codes. You can use the top menu to get to the different repositories, or the links in the descriptions of the content of each repository below.&lt;/p&gt;
+
+&lt;h2 id=&quot;scaffolding&quot;&gt;Scaffolding&lt;/h2&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;karttur/
+├── overview/
+|    └── blog/
+|        └──                          &lt;span class=&quot;c&quot;&gt;# empty&lt;/span&gt;
+|    └── overview/
+|        └── overview-main            &lt;span class=&quot;c&quot;&gt;# this page&lt;/span&gt;
+├── setup-blog/
+|    └── Set up blog tools            &lt;span class=&quot;c&quot;&gt;# tutorial on Jekyll and Atom&lt;/span&gt;
+├── setup-github/
+|    └── Set up GitHub                &lt;span class=&quot;c&quot;&gt;# tutorial on markdown and GitHub&lt;/span&gt;
+├── setup-theme-blog/
+|    └── blog/
+|        └── hide-show-div            &lt;span class=&quot;c&quot;&gt;# Hide/show code with javascript&lt;/span&gt;
+|    └── setup-blog/
+|        ├── Set up Jekyll theme blog &lt;span class=&quot;c&quot;&gt;# Select, edit and publish Jekyll Theme&lt;/span&gt;
+|        └── Theme Setup              &lt;span class=&quot;c&quot;&gt;# The So Simple Theme instructions&lt;/span&gt;
+├── setup-ide/
+|    └── blog/
+|        └──                          &lt;span class=&quot;c&quot;&gt;# empty&lt;/span&gt;
+|    └── ide-setup/     
+|        ├── Install Anaconda         &lt;span class=&quot;c&quot;&gt;# Install Anaconda Python package on macOS&lt;/span&gt;
+|        ├── Setup Eclipse with PyDev &lt;span class=&quot;c&quot;&gt;# Install Eclipse and set up with Anaconda&lt;/span&gt;
+|        ├── Install PostgreSQL       &lt;span class=&quot;c&quot;&gt;# Install PostgreSQL and PostGIG on macOS&lt;/span&gt;
+|        ├── Connect PostgreSQL       &lt;span class=&quot;c&quot;&gt;# psycopg2 connect PostgreSQL and Python  &lt;/span&gt;
+|        ├── PostgreSQL xml setup     &lt;span class=&quot;c&quot;&gt;# Setup db schema &amp;amp; tables using xml&lt;/span&gt;
+|        └── GDAL, QGIS and GRASS     &lt;span class=&quot;c&quot;&gt;# Install GDAL, QGIS and GRASS on macOS&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;repositories&quot;&gt;Repositories&lt;/h2&gt;
+
+&lt;h3 id=&quot;overview&quot;&gt;overview&lt;/h3&gt;
+
+&lt;p&gt;The overview repository only contains web-pages.&lt;/p&gt;
+
+&lt;h3 id=&quot;setup-blog&quot;&gt;setup-blog&lt;/h3&gt;
+
+&lt;p&gt;The repository &lt;a href=&quot;https://karttur.github.io/setup-blog/&quot;&gt;Setup-blog&lt;/a&gt; contains a manual on how that very page was created by using Jekyll and the default Theme minima. The page also introduces using the text editor &lt;span class=&quot;app&quot;&gt;Atom&lt;/span&gt; for editing markdown files. The GitHub repository contains the full code under the branch ‘gh-pages’. It might be useful to follow the manual to set up your very first Jekyll blog.&lt;/p&gt;
+
+&lt;p&gt;Url links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-blog/&quot;&gt;front web page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-blog/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;setup-github&quot;&gt;setup-github&lt;/h3&gt;
+
+&lt;p&gt;Also the repository &lt;a href=&quot;https://karttur.github.io/setup-github/&quot;&gt;Setup-github&lt;/a&gt; contains a single web-page created using Jekyll, but without any template Theme. The page is an introductory manual on how to publish a web site with blogs on GitHub.com using &lt;span class=&quot;app&quot;&gt;GitHub desktop.app&lt;/span&gt;. The GitHub repository contains the full code under the branch ‘gh-pages’. It might be useful for learning a bit about markdown and publishing Jekyll generated web-pages on GitHub.&lt;/p&gt;
+
+&lt;p&gt;Url links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-github/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-github/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;setup-theme-blog&quot;&gt;setup-theme-blog&lt;/h3&gt;
+
+&lt;p&gt;After having tried out creating web-pages using Jekyll, learnt a bit about markdown and editing the markdown coding system in the text editor Atom, I selected an Open Source Jekyll Theme (So Simple by Michael Rose) as the template for continuing publishing my articles and blogs. The repository &lt;a href=&quot;https://karttur.github.io/setup-theme-blog/&quot;&gt;setup-theme-blog&lt;/a&gt; contains my step-by-step manual on how I setup the So Simple Theme. The blog contains additional tweaking I have done to the So Simple Theme to make it fit my needs.&lt;/p&gt;
+
+&lt;p&gt;Url links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-theme-blog/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-theme-blog/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;setup-ide&quot;&gt;setup-ide&lt;/h3&gt;
+
+&lt;p&gt;The core of the Karttur site is about map making and spatial data processing, especially using satellite images. The repository &lt;a href=&quot;https://karttur.github.io/setup-ide/&quot;&gt;setup-ide&lt;/a&gt; (ide stands for Integrated Development Environment) covers the installations and setups to create the framework needed for the kind of map making that Karttur does.&lt;/p&gt;
+
+&lt;p&gt;Url links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-ide/tree/gh-pages&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Direct links to the installation and setup instructions of different components (primarily for macOS):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-gis/&quot;&gt;GIS&lt;/a&gt; (Install GDAL, QGIS and GRASS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-anaconda/&quot;&gt;Anaconda&lt;/a&gt; (Install Ananconda Python Interpreter)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-eclipse/&quot;&gt;Eclipse&lt;/a&gt; (Install IDE for Python)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-postgres/&quot;&gt;PostgreSQL&lt;/a&gt; (Install PostgreSQL with PostGIS database)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/connect-with-psycopg2/&quot;&gt;psycopg2&lt;/a&gt; (connect Python and Postgres using psycopg2)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/setup-db-karttur/&quot;&gt;db architecture&lt;/a&gt; (create db architecture [schemas and tables] using xml)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="Blog setup" /><category term="IDE setup" /><category term="DB setup" /><category term="GIS installations" /><category term="macOS" /><summary type="html">Overview of Karttur´s GitHub site for blogs, articles and manuals</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry></feed>
