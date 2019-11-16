@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-15T09:59:31+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">Wetland classification systems</title><link href="http://localhost:4000/blog/wetland-class-ref/" rel="alternate" type="text/html" title="Wetland classification systems" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-ref</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-ref/">&lt;p&gt;An attempt to identify different wetland classification systems.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-15T23:07:47+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
+
+&lt;p&gt;This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
+…
+The system does not consider hydroperiod explicitly, but rather aims to describe landscape setting and landform, and consider hydrologically-linked processes of sediment erosion, transport and deposition that may be associated with each wetland.&lt;/p&gt;
+
+&lt;p&gt;“Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form.”&lt;/p&gt;
+
+&lt;p&gt;The Cowardin et al. (1979) wetland definition has been used as the starting point for several wetland hydrogeomorphic classification systems, including those of Cowardin and Golet (1995), Brinson (1993) and Semeniuk and Semeniuk (1995). According to Finlayson and van der Valk (1995), the primary reason for developing a classification system is to support wetland inventory by standardising and defining terms to describe wetland types to allow successful wetland conservation and management. We argue that a wetland classification system can be more than a system for inventory, and that it can also be used as a tool to improve understanding of wetland processes and dynamics (Kondolf and Piégay, 2016).&lt;/p&gt;
+
+&lt;p&gt;A failure to appropriately conceptualise natural and human induced trajectories of change in wetlands, in tandem with a lack of appreciation of the importance of longitudinal (dis)connectivity, can result in poor outcomes for wetland restoration in dryland environments.&lt;/p&gt;
+
+&lt;p&gt;the hydrogeomorphic classification scheme currently in use in South Africa, developed by Ewart-Smith et al. (2006) and Ollis et al. (2015), incorporates very little geomorphological insight beyond consideration of the landscape setting, and emphasises “product” (landscape setting) over “process” (dynamic feedbacks between process and form) geomorphology (Lisenby et al., 2019). The result is that short-term hydrological processes are considered the master variable in wetlands with developmental histories that in many cases extend over several millennia, and have been shaped by a highly complex interplay between a geological template and dynamic flows and fluxes of earth surface material (Tooth and McCarthy, 2007; Lisenby et al., 2019).&lt;/p&gt;
+
+&lt;p&gt;Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="wetland restoration" /><category term="wetland management" /><category term="drylands" /><summary type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</summary></entry><entry><title type="html">Wetland classification schema</title><link href="http://localhost:4000/blog/wetland-class-schema/" rel="alternate" type="text/html" title="Wetland classification schema" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-schema</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-schema/">&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;system&lt;/td&gt;
+      &lt;td&gt;vegetation&lt;/td&gt;
+      &lt;td&gt;soil texture&lt;/td&gt;
+      &lt;td&gt;chemistry&lt;/td&gt;
+      &lt;td&gt;genesis&lt;/td&gt;
+      &lt;td&gt;water source&lt;/td&gt;
+      &lt;td&gt;water fluctuation&lt;/td&gt;
+      &lt;td&gt;hydrodynamics&lt;/td&gt;
+      &lt;td&gt;textural&lt;/td&gt;
+      &lt;td&gt;contextural&lt;/td&gt;
+      &lt;td&gt;juxtaposition&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cowardin&lt;/td&gt;
+      &lt;td&gt;prim&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Brinson&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;sec&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;prim&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;prim?&lt;/td&gt;
+      &lt;td&gt;prim?&lt;/td&gt;
+      &lt;td&gt;prim?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">An attempt to classify wetland classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Wetland classification systems</title><link href="http://localhost:4000/blog/wetland-class-ref/" rel="alternate" type="text/html" title="Wetland classification systems" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-ref</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-ref/">&lt;p&gt;An attempt to identify different wetland classification systems.&lt;/p&gt;
 
 &lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
 
@@ -140,99 +198,16 @@ Wetland Classification: Overview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.env.gov.yk.ca/animals-habitat/documents/canadian_wetland_classification_system.pdf&quot;&gt;National Wetlands Working Group. 1997. The Canadian Wetland Classification System, 2nd Edition. Warner, B.G. and C.D.A. Rubec (eds.), Wetlands Research Centre, University of Waterloo, Waterloo, ON, Canada. 68 p.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/forum/wi/ACF357.pdf&quot;&gt;Classification of natural inland, coastal, and anthropogenic wetlands - a proposal to the Ramsar Bureau
-for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Karttur GitHub repository overview</title><link href="http://localhost:4000/overview/overview-main/" rel="alternate" type="text/html" title="Karttur GitHub repository overview" /><published>2018-01-09T11:27:00+01:00</published><updated>2018-01-09T11:27:00+01:00</updated><id>http://localhost:4000/overview/overview-main</id><content type="html" xml:base="http://localhost:4000/overview/overview-main/">&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;
-- &lt;a href=&quot;#scaffolding&quot;&gt;Scaffolding&lt;/a&gt;
-- &lt;a href=&quot;#repositories&quot;&gt;Repositories&lt;/a&gt;
-  - &lt;a href=&quot;#overview&quot;&gt;overview&lt;/a&gt;
-  - &lt;a href=&quot;#setup-blog&quot;&gt;setup-blog&lt;/a&gt;
-  - &lt;a href=&quot;#setup-github&quot;&gt;setup-github&lt;/a&gt;
-  - &lt;a href=&quot;#setup-theme-blog&quot;&gt;setup-theme-blog&lt;/a&gt;
-  - &lt;a href=&quot;#setup-ide&quot;&gt;setup-ide&lt;/a&gt;&lt;/p&gt;
+for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">A Hydrogeomorphic Classification for Wetlands</title><link href="http://localhost:4000/literature/ref-brinson-1993/" rel="alternate" type="text/html" title="A Hydrogeomorphic Classification for Wetlands" /><published>1993-11-05T11:27:00+01:00</published><updated>1993-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-brinson-1993</id><content type="html" xml:base="http://localhost:4000/literature/ref-brinson-1993/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
 
-&lt;p&gt;This blog is an attempt to create an overview of the contents in Karttur’s GitHub site. The site is organized in repositories, with each repository containing a blog, and some containing program codes. You can use the top menu to get to the different repositories, or the links in the descriptions of the content of each repository below.&lt;/p&gt;
+&lt;p&gt;This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
+…
+The system does not consider hydroperiod explicitly, but rather aims to describe landscape setting and landform, and consider hydrologically-linked processes of sediment erosion, transport and deposition that may be associated with each wetland.&lt;/p&gt;
 
-&lt;h2 id=&quot;scaffolding&quot;&gt;Scaffolding&lt;/h2&gt;
+&lt;p&gt;“Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form.”&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;karttur/
-├── overview/
-|    └── blog/
-|        └──                          &lt;span class=&quot;c&quot;&gt;# empty&lt;/span&gt;
-|    └── overview/
-|        └── overview-main            &lt;span class=&quot;c&quot;&gt;# this page&lt;/span&gt;
-├── setup-blog/
-|    └── Set up blog tools            &lt;span class=&quot;c&quot;&gt;# tutorial on Jekyll and Atom&lt;/span&gt;
-├── setup-github/
-|    └── Set up GitHub                &lt;span class=&quot;c&quot;&gt;# tutorial on markdown and GitHub&lt;/span&gt;
-├── setup-theme-blog/
-|    └── blog/
-|        └── hide-show-div            &lt;span class=&quot;c&quot;&gt;# Hide/show code with javascript&lt;/span&gt;
-|    └── setup-blog/
-|        ├── Set up Jekyll theme blog &lt;span class=&quot;c&quot;&gt;# Select, edit and publish Jekyll Theme&lt;/span&gt;
-|        └── Theme Setup              &lt;span class=&quot;c&quot;&gt;# The So Simple Theme instructions&lt;/span&gt;
-├── setup-ide/
-|    └── blog/
-|        └──                          &lt;span class=&quot;c&quot;&gt;# empty&lt;/span&gt;
-|    └── ide-setup/     
-|        ├── Install Anaconda         &lt;span class=&quot;c&quot;&gt;# Install Anaconda Python package on macOS&lt;/span&gt;
-|        ├── Setup Eclipse with PyDev &lt;span class=&quot;c&quot;&gt;# Install Eclipse and set up with Anaconda&lt;/span&gt;
-|        ├── Install PostgreSQL       &lt;span class=&quot;c&quot;&gt;# Install PostgreSQL and PostGIG on macOS&lt;/span&gt;
-|        ├── Connect PostgreSQL       &lt;span class=&quot;c&quot;&gt;# psycopg2 connect PostgreSQL and Python  &lt;/span&gt;
-|        ├── PostgreSQL xml setup     &lt;span class=&quot;c&quot;&gt;# Setup db schema &amp;amp; tables using xml&lt;/span&gt;
-|        └── GDAL, QGIS and GRASS     &lt;span class=&quot;c&quot;&gt;# Install GDAL, QGIS and GRASS on macOS&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;h2 id=&quot;repositories&quot;&gt;Repositories&lt;/h2&gt;
+&lt;p&gt;The Cowardin et al. (1979) wetland definition has been used as the starting point for several wetland hydrogeomorphic classification systems, including those of Cowardin and Golet (1995), Brinson (1993) and Semeniuk and Semeniuk (1995). According to Finlayson and van der Valk (1995), the primary reason for developing a classification system is to support wetland inventory by standardising and defining terms to describe wetland types to allow successful wetland conservation and management. We argue that a wetland classification system can be more than a system for inventory, and that it can also be used as a tool to improve understanding of wetland processes and dynamics (Kondolf and Piégay, 2016).&lt;/p&gt;
 
-&lt;h3 id=&quot;overview&quot;&gt;overview&lt;/h3&gt;
+&lt;p&gt;A failure to appropriately conceptualise natural and human induced trajectories of change in wetlands, in tandem with a lack of appreciation of the importance of longitudinal (dis)connectivity, can result in poor outcomes for wetland restoration in dryland environments.&lt;/p&gt;
 
-&lt;p&gt;The overview repository only contains web-pages.&lt;/p&gt;
-
-&lt;h3 id=&quot;setup-blog&quot;&gt;setup-blog&lt;/h3&gt;
-
-&lt;p&gt;The repository &lt;a href=&quot;https://karttur.github.io/setup-blog/&quot;&gt;Setup-blog&lt;/a&gt; contains a manual on how that very page was created by using Jekyll and the default Theme minima. The page also introduces using the text editor &lt;span class=&quot;app&quot;&gt;Atom&lt;/span&gt; for editing markdown files. The GitHub repository contains the full code under the branch ‘gh-pages’. It might be useful to follow the manual to set up your very first Jekyll blog.&lt;/p&gt;
-
-&lt;p&gt;Url links:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-blog/&quot;&gt;front web page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-blog/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;setup-github&quot;&gt;setup-github&lt;/h3&gt;
-
-&lt;p&gt;Also the repository &lt;a href=&quot;https://karttur.github.io/setup-github/&quot;&gt;Setup-github&lt;/a&gt; contains a single web-page created using Jekyll, but without any template Theme. The page is an introductory manual on how to publish a web site with blogs on GitHub.com using &lt;span class=&quot;app&quot;&gt;GitHub desktop.app&lt;/span&gt;. The GitHub repository contains the full code under the branch ‘gh-pages’. It might be useful for learning a bit about markdown and publishing Jekyll generated web-pages on GitHub.&lt;/p&gt;
-
-&lt;p&gt;Url links:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-github/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-github/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;setup-theme-blog&quot;&gt;setup-theme-blog&lt;/h3&gt;
-
-&lt;p&gt;After having tried out creating web-pages using Jekyll, learnt a bit about markdown and editing the markdown coding system in the text editor Atom, I selected an Open Source Jekyll Theme (So Simple by Michael Rose) as the template for continuing publishing my articles and blogs. The repository &lt;a href=&quot;https://karttur.github.io/setup-theme-blog/&quot;&gt;setup-theme-blog&lt;/a&gt; contains my step-by-step manual on how I setup the So Simple Theme. The blog contains additional tweaking I have done to the So Simple Theme to make it fit my needs.&lt;/p&gt;
-
-&lt;p&gt;Url links:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-theme-blog/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-theme-blog/tree/gh-pages&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;setup-ide&quot;&gt;setup-ide&lt;/h3&gt;
-
-&lt;p&gt;The core of the Karttur site is about map making and spatial data processing, especially using satellite images. The repository &lt;a href=&quot;https://karttur.github.io/setup-ide/&quot;&gt;setup-ide&lt;/a&gt; (ide stands for Integrated Development Environment) covers the installations and setups to create the framework needed for the kind of map making that Karttur does.&lt;/p&gt;
-
-&lt;p&gt;Url links:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/&quot;&gt;front web-page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/karttur/setup-ide/tree/gh-pages&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Direct links to the installation and setup instructions of different components (primarily for macOS):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-gis/&quot;&gt;GIS&lt;/a&gt; (Install GDAL, QGIS and GRASS)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-anaconda/&quot;&gt;Anaconda&lt;/a&gt; (Install Ananconda Python Interpreter)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-eclipse/&quot;&gt;Eclipse&lt;/a&gt; (Install IDE for Python)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/install-postgres/&quot;&gt;PostgreSQL&lt;/a&gt; (Install PostgreSQL with PostGIS database)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/connect-with-psycopg2/&quot;&gt;psycopg2&lt;/a&gt; (connect Python and Postgres using psycopg2)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://karttur.github.io/setup-ide/setup-ide/setup-db-karttur/&quot;&gt;db architecture&lt;/a&gt; (create db architecture [schemas and tables] using xml)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Blog setup" /><category term="IDE setup" /><category term="DB setup" /><category term="GIS installations" /><category term="macOS" /><summary type="html">Overview of Karttur´s GitHub site for blogs, articles and manuals</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry></feed>
+&lt;p&gt;Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.&lt;/p&gt;</content><author><name>Brinson, M. M.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="HYDROLOGY" /><category term="SURFACES" /><category term="OCEANS" /><category term="VEGETATION" /><category term="HYDRODYNAMICS" /><category term="SEA LEVEL" /><category term="STREAMS" /><category term="PEAT" /><summary type="html">A Hydrogeomorphic Classification for Wetlands</summary></entry></feed>
