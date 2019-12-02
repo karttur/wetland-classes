@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Peatland classification"
+author: "Grenfell, S et al."
+categories: literature
+DOI: 00000
+excerpt: "Peatland classification"
+tags:
+  - wetland-classes
+  - peatland classification
+  - wetland classification
+date: '2016-01-01 11:27'
+modified: '2019-11-05 T18:17:25.000Z'
+comments: true
+share: true
+abstract: "Abstract"
+---
+
+Ecological classification approach. Main division is groundwater fed fens and ombrotrophic bogs. Within these broad classes, mires have been classified according to vegetation, chemistry, water source or geomorphology.
+
+A widely accepted definition of peat as a soil is that it must contain at least 30 % organic matter and have a thickness of at least 30 cm (Joostein and Clarke, 2002).
+Weber (1907) defined fens (Niedermoor), raised bogs (Hochmoor) and an intermediate mire tyope that he called Übergangsmoor. Various definitions were in use until Du Rietz (1954) reviewed the terminologi and suggested that ombrotrophic (fed by rainfaill) mires be lablled bogs and minorotropics (fed mainly by groundwater or runoff) fens. In the popular venucalr, the terms are confused including for speficif sites.
+
+Tansley (1939) explicitly used the terms bogs and fens dividing the two classes based on pH conditions.
+
+Fens are by far of much more varying in character, but are less extensive and globally of less extent compared to bogs (a bit depenpent on what you mean by a fen). The definition of fens is thus more unclear and less consensus. In general fens have a higher solute concentration, are more nutrient rich and have higher pH compared to Bogs. Fens can be find in all climate zones, including deserts.
+
+Bogs, on the other hand, are only found under humid conditions. As they receive no, or little, latteral inflow, they are usually low in nutrients and have a low pH. However, in regions with larger amounts of airborne dust, pH can be higher and the Bog vegetation luxuriantly growing. This is the case for the raised peat domes in South East Asia, locally referred to as Swamp forests )and not regarded as bogs). Other nomenclature, including "basin bog" and "valley bog" would, following Du Rietz (1954) be regarded as fens.
+
+A fen that accumulates sufficient orgnaic matter to raise its surface above the rurroundings will grow into a bog, in the climate conditions are favourable for that (other word).
+
+### Hydromorphological Classification
+
+The ceoncept of using Hydromorphological characteristsics for classificying mires goes back at least to Von Post and Granlund (1926) that divided the minerotrpjic mires into topogenous (or topotrophic), dependent on water accumualtion in landscape depressions, and soligenous, dependent on flowing water. This division is still used, explicitly or implicitly, also in modern mire classifciation systems.
+
+### Genesis focuses
+
+Building on the 3 prong system definition,
+Joostein and Clarke (2002) attempted to develop a mire classification system based on the genesis and hydromorpholoiigcal processes, recognizing that over time a mire will have two distinct horizontal layers (diplotelmic) : an upper layer with high water permeability - the acrotelm, and a lower layer with less permeability - the catotelm. mires lacking the dual layers are haplotemic, and can either be characterisex by a transmissivuty feedback towards the surface or have a homogenous permeability. These characteristics can not, at present, be discerned using remote sensing data.
+
+### I texten om klassning
+
+topogenous (or topomorphic) wetlands (inclduing topogenous mires) are characterized by both a disticnft eomorphological setting, as well as being more wet and with pools of of water (vad detta kallas i det kanadensiska systemet). THey are thus more striahgt forwards to identify from a remote sesning data. Soilgenous wetlands (including mires - canadian definition) commony lack surface pools (ref to canadian system) and are thus more difficult to distinguish in image data. They require hydroligcal data, that can only be acquired by modeling (or filed visit) the water flow.
+
+### A spatially hierarchical classification of mires
+
+Stemming from an Eastern European traditions, the integrated hiearchical classfication of landscape units, or topes (from the concept of ecotope orignally defined by Tansley, 1939) a system was developed by Ivanov (1981) and also adopted in e.g. Canada (Wells and Zoltai, 1985) and Norway (Moen,1985). The "tope" system is spatially hierarchical, starting from a tree and its surrounding, called a "synusia", and then identifying different more or less compartementalized levels (e.g. nanotope, microtope, mesotope, macrotope, supertope), with the supertope including the entire wetlandscape (fens, bogs, open water, flodoplains the fucking lot).
+
+the "tope" system is attractive, and will probably gain in relevance as methods (probably using Artifical Intelligence) develop for identifying the various hiearchical scales at diferent saptial and temporal resolution. At present that is, however, beyond, what is possible (tänk på RS arkeologgens vision om små drönare).

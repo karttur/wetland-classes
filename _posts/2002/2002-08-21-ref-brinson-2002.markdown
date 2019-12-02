@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Temperate freshwater wetlands: types, status, and threats"
+author: "Brinson, M. M. and Malvárez, A. I."
+categories: literature
+DOI: 10.1017/S0376892902000085
+citationkey: brinson2002
+excerpt: "Temperate freshwater wetlands: types, status, and threats"
+tags:
+  - wetland-classes
+  - Hydrogeomorphic
+date: '2002-08-21 11:27'
+modified: '2019-11-05 T18:17:25.000Z'
+comments: true
+share: true
+abstract: "This review examines the status of temperate-zone freshwater wetlands and makes projections of how changes over the 2025 time horizon might affect their biodiversity. The six geographic regions addressed are temperate areas of North America, South America, northern Europe, northern Mediterranean, temperate Russia, Mongolia, north-east China, Korea and Japan, and southern Australia and New Zealand. Information from the recent technical literature, general accounts in books, and some first-hand experience provided the basis for describing major wetland types, their status and major threats. Loss of biodiversity is a consequence both of a reduction in area and deterioration in condition. The information base for either change is highly variable geographically. Many countries lack accurate inventories, and for those with inventories, classifications differ, thus making comparisons difficult. Factors responsible for losses and degradation include diversions and damming of river flows, disconnecting floodplain wetlands from flood flows, eutrophication, contamination, grazing, harvests of plants and animals, global warming, invasions of exotics, and the practices of filling, dyking and draining. In humid regions, drainage of depressions and flats has eliminated large areas of wetlands. In arid regions, irrigated agriculture directly competes with wetlands for water. Eutrophication is widespread, which, together with effects of invasive species, reduces biotic complexity. In northern Europe and the northern Mediterranean, losses have been ongoing for hundreds of years, while losses in North America accelerated during the 1950s through to the 1970s. In contrast, areas such as China appear to be on the cusp of expanding drainage projects and building impoundments that will eliminate and degrade freshwater wetlands. Generalizations and trends gleaned from this paper should be considered only as a starting point for developing world-scale data sets. One trend is that the more industrialized countries are likely to conserve their already impacted, remaining wetlands, while nations with less industrialization are now experiencing accelerated losses, and may continue to do so for the next several decades. Another observation is that countries with both protection and restoration programmes do not necessarily enjoy a net increase in area and improvement in condition. Consequently, both reductions in the rates of wetland loss and increases in the rates of restoration are needed in tandem to achieve overall improvements in wetland area and condition."
+---
