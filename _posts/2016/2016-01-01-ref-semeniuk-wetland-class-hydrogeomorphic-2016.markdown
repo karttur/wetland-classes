@@ -4,7 +4,7 @@ title: "Wetland classification: Hydrogeomorphic System"
 author: "Semeniuk, C.A. and Semeniuk, V."
 categories: literature
 DOI: 10.1007/978-90-481-9659-3_331
-citationkey: Semeniuk_2018a
+citationkey: semeniuk2016hydrogeomorphic
 excerpt: "Wetland classification: Hydrogeomorphic System"
 tags:
   - wetland-classes
@@ -15,6 +15,15 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
+
+@article{semeniuk2016hydrogeomorphic,
+  title={Wetland Classification: Hydrogeomorphic System},
+  author={Semeniuk, CA and Semeniuk, V},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1--8},
+  year={2016},
+  publisher={Springer}
+}
 
 General article on Hydrogeomorphic Systems, with focus on Brinson (1993) and Brinson and Malvarez (2002).
 

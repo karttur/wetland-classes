@@ -3,7 +3,7 @@ layout: post
 title: "USA Wetlands: NWI-Plus Classification System"
 author: "Tiner, R."
 categories: literature
-DOI: 00000
+DOI: https://doi.org/10.1007/978-94-007-6172-8_337-1
 excerpt: "USA Wetlands: NWI-Plus Classification System"
 tags:
   - wetland-classes
@@ -19,6 +19,15 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
+
+@article{tiner2016usa,
+  title={USA Wetlands: NWI-Plus Classification System},
+  author={Tiner, Ralph W},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1--8},
+  year={2016},
+  publisher={Springer}
+}
 
 How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.
 
@@ -72,4 +81,4 @@ These properties can not be captured by on a pixel scale, but requires a themati
 
 ##### Water body type
 
-Just listed, not elaborated in the above article. 
+Just listed, not elaborated in the above article.

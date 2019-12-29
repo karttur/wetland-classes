@@ -1,35 +1,27 @@
 ---
 layout: post
-title: "A Hydrogeomorphic Classification for Wetlands"
+title: "Classification of wetlands and deepwater habitats of the United States"
 author: "Brinson, M. M."
 categories: literature
 DOI: 00000
-citationskey: brinson1993hydrogeomorphic
-excerpt: "A Hydrogeomorphic Classification for Wetlands"
+citationskey: cowardin1979classification
+excerpt: "Classification of wetlands and deepwater habitats of the United States"
 tags:
   - wetland-classes
   - wetland geomorphology
   - wetland classification
-  - HYDROLOGY  
-  - SURFACES
-  - OCEANS
-  - VEGETATION
-  - HYDRODYNAMICS
-  - SEA LEVEL
-  - STREAMS
-  - PEAT
-date: '1993-11-05 11:27'
+date: '1979-12-26 11:27'
 modified: '2019-11-05 T18:17:25.000Z'
 comments: true
 share: true
-abstract: "Wetlands can be classified by methods that range from the use of commonly recognized vegetation or cover types, to systems based on hydrology, geomorphology, or some combination of the two. The classification presented here is based on the hydrogeomorphic functions of wetlands. There are three basic properties that are used to provide insight into wetland functions: 1. Geomorphic setting-The three categories are depressional, riverine, and fringe. Extensive peatlands constitute a separate category because of their unique topographic and hydrologic conditions. Depressional wetlands can be open or closed to surface flows, and can be tightly or loosely connected to groundwater flows. Riverine wetlands range from those associated with steep to low gradient streams and are represented by floodplains. Fringe wetlands are sea level or lake level controlled. Peat lands normally initiate their development in depressions. If peat lands develop beyond the original depression, they can create their own unique geomorphic settings. Each of these four types roughly corresponds with limited combinations of water sources and hydrodynamic conditions."
+abstract: ""
 ---
 
-@techreport{brinson1993hydrogeomorphic,
-  title={A hydrogeomorphic classification for wetlands},
-  author={Brinson, Mark M},
-  year={1993},
-  institution={EAST CAROLINA UNIV GREENVILLE NC}
+@techreport{cowardin1979classification,
+  title={Classification of wetlands and deepwater habitats of the United States},
+  author={Cowardin, Lewis M and Carter, Virginia and Golet, Francis C and LaRoe, Edward T},
+  year={1979},
+  institution={US Department of the Interior, US Fish and Wildlife Service}
 }
 
 The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.

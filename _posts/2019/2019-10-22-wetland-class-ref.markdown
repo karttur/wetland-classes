@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wetland classification systems
-categories: blog
+categories: draft
 excerpt: "Literature on wetland classifications and classification systems"
 tags:
   - wetland

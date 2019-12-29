@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wetland classification schema
-categories: blog
+categories: draft
 excerpt: "An attempt to classify wetland classification systems"
 tags:
   - wetland

@@ -4,7 +4,7 @@ title: "Hydrogeomorphic Wetland Classification System: An Overview and Modificat
 author: "USDA-NRCS"
 categories: literature
 DOI: 00000
-citationkey: usda2008
+citationkey: usda2008hydrogeomorphic
 excerpt: "Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service"
 tags:
   - wetland-classes
@@ -16,6 +16,12 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
+
+@article{usda2008hydrogeomorphic,
+  title={Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service},
+  author={USDA-NRCS,
+  year={2008}
+}
 
 An extension of the Hydrogeomorphic (HGM) wetland classification system proposed by Birnsion (1993), Smith et al (1995) and Brinson and Malvarez (2002).
 

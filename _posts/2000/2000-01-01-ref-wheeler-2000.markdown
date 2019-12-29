@@ -4,7 +4,7 @@ title: "Ecological gradients, subdivisions and terminology of north-west Europea
 author: "Brinson, M. M. and Malvárez, A. I."
 categories: literature
 DOI: 10.1046/j.1365-2745.2000.00455.x
-citationkey: wheeler2000
+citationkey: wheeler2000ecological
 excerpt: "Ecological gradients, subdivisions and terminology of north-west European mires"
 tags:
   - wetland-classes
@@ -19,6 +19,17 @@ comments: true
 share: true
 abstract: "abstract."
 ---
+
+@article{wheeler2000ecological,
+  title={Ecological gradients, subdivisions and terminology of north-west European mires},
+  author={Wheeler, BD and Proctor, MCF},
+  journal={Journal of Ecology: Essay Reviews},
+  volume={88},
+  number={2},
+  pages={187--203},
+  year={2000},
+  publisher={Wiley Online Library}
+}
 
 Review of scientific studies and classification of mires in north-west Europe. Quite a lot of the early stuff came from Swedish studies.
 

@@ -1,40 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-23T11:48:43+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html"></title><link href="http://localhost:4000/2016-01-01-ref-semeniuk-wetland-class-geomorphic-hydrologic-2016/" rel="alternate" type="text/html" title="" /><published>2019-11-23T11:48:43+01:00</published><updated>2019-11-23T11:48:43+01:00</updated><id>http://localhost:4000/2016-01-01-ref-semeniuk-wetland-class-geomorphic-hydrologic-2016</id><content type="html" xml:base="http://localhost:4000/2016-01-01-ref-semeniuk-wetland-class-geomorphic-hydrologic-2016/">&lt;p&gt;The starting point of the Geomorphologic-Hydrologic classification is a simplified land + water based classification. Combining the mineral landform and its (water related) filling. Two main classes are recognized:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Terrain conforming&lt;/li&gt;
-  &lt;li&gt;Self-emergent&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The Geomorphologic-Hydrologic system recognizes seven basic landforms:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;basin,&lt;/li&gt;
-  &lt;li&gt;vale,&lt;/li&gt;
-  &lt;li&gt;channel,&lt;/li&gt;
-  &lt;li&gt;plain (flat)&lt;/li&gt;
-  &lt;li&gt;slope&lt;/li&gt;
-  &lt;li&gt;cliff (wall)&lt;/li&gt;
-  &lt;li&gt;mont&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I am not fond of these, cliff for instance is a kind of slope, saddle point is missing, and only one type of vale. The forms are not mathematically defined, at least not in this paper.&lt;/p&gt;
-
-&lt;p&gt;And five different water regimes:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Permanent inundation&lt;/li&gt;
-  &lt;li&gt;Seasonal inundation&lt;/li&gt;
-  &lt;li&gt;Intermittent inundation&lt;/li&gt;
-  &lt;li&gt;Permanent waterlogging&lt;/li&gt;
-  &lt;li&gt;Seasonal waterlogging&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Combining the basic landforms and the water regimes, the Geomorphologic-Hydrologic system identifies 22 different primary categories of wetlands. The labeling is esoteric, Wittgenstein would not have liked it.&lt;/p&gt;
-
-&lt;p&gt;a further problem of the Geomorphologic-Hydrologic is that it is the mineral bedding that determines the landform, and without ground penetrating observations, this can not be determined.&lt;/p&gt;
-
-&lt;p&gt;The article then goes on to discuss all kinds of stuff.&lt;/p&gt;
-
-&lt;p&gt;Good illustrations of landforms.&lt;/p&gt;</content><author><name></name></author></entry><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-29T21:14:40+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
 
 &lt;p&gt;This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
 …
@@ -48,7 +12,7 @@ The system does not consider hydroperiod explicitly, but rather aims to describe
 
 &lt;p&gt;the hydrogeomorphic classification scheme currently in use in South Africa, developed by Ewart-Smith et al. (2006) and Ollis et al. (2015), incorporates very little geomorphological insight beyond consideration of the landscape setting, and emphasises “product” (landscape setting) over “process” (dynamic feedbacks between process and form) geomorphology (Lisenby et al., 2019). The result is that short-term hydrological processes are considered the master variable in wetlands with developmental histories that in many cases extend over several millennia, and have been shaped by a highly complex interplay between a geological template and dynamic flows and fluxes of earth surface material (Tooth and McCarthy, 2007; Lisenby et al., 2019).&lt;/p&gt;
 
-&lt;p&gt;Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="wetland restoration" /><category term="wetland management" /><category term="drylands" /><summary type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</summary></entry><entry><title type="html">Wetland classification schema</title><link href="http://localhost:4000/blog/wetland-class-schema/" rel="alternate" type="text/html" title="Wetland classification schema" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-schema</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-schema/">&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
+&lt;p&gt;Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="wetland restoration" /><category term="wetland management" /><category term="drylands" /><summary type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</summary></entry><entry><title type="html">Wetland classification schema</title><link href="http://localhost:4000/draft/wetland-class-schema/" rel="alternate" type="text/html" title="Wetland classification schema" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/draft/wetland-class-schema</id><content type="html" xml:base="http://localhost:4000/draft/wetland-class-schema/">&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -128,7 +92,7 @@ The system does not consider hydroperiod explicitly, but rather aims to describe
   &lt;li&gt;landform (in here divided between textural and contextural landform),&lt;/li&gt;
   &lt;li&gt;water flow path (in here divided between water source and water fluctuation) and&lt;/li&gt;
   &lt;li&gt;waterbody type (in here = juxtaposition )&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">An attempt to classify wetland classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Wetland classification systems</title><link href="http://localhost:4000/blog/wetland-class-ref/" rel="alternate" type="text/html" title="Wetland classification systems" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/blog/wetland-class-ref</id><content type="html" xml:base="http://localhost:4000/blog/wetland-class-ref/">&lt;p&gt;An attempt to identify different wetland classification systems.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">An attempt to classify wetland classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Wetland classification systems</title><link href="http://localhost:4000/draft/wetland-class-ref/" rel="alternate" type="text/html" title="Wetland classification systems" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/draft/wetland-class-ref</id><content type="html" xml:base="http://localhost:4000/draft/wetland-class-ref/">&lt;p&gt;An attempt to identify different wetland classification systems.&lt;/p&gt;
 
 &lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
 
@@ -270,7 +234,56 @@ Wetland Classification: Overview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.env.gov.yk.ca/animals-habitat/documents/canadian_wetland_classification_system.pdf&quot;&gt;National Wetlands Working Group. 1997. The Canadian Wetland Classification System, 2nd Edition. Warner, B.G. and C.D.A. Rubec (eds.), Wetlands Research Centre, University of Waterloo, Waterloo, ON, Canada. 68 p.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/forum/wi/ACF357.pdf&quot;&gt;Classification of natural inland, coastal, and anthropogenic wetlands - a proposal to the Ramsar Bureau
-for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">USA Wetlands: NWI-Plus Classification System</title><link href="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/" rel="alternate" type="text/html" title="USA Wetlands: NWI-Plus Classification System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-tiner-usa-wetlands-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/">&lt;p&gt;How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.&lt;/p&gt;
+for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis</title><link href="http://localhost:4000/literature/ref-xu-peatmap-2018/" rel="alternate" type="text/html" title="PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-xu-peatmap-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-xu-peatmap-2018/">&lt;p&gt;@article{xu2018peatmap,
+  title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis},
+  author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph},
+  journal={Catena},
+  volume={160},
+  pages={134–140},
+  year={2018},
+  publisher={Elsevier}
+}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="peatland" /><category term="metastudy" /><category term="remote sensing" /><category term="global" /><summary type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis)</summary></entry><entry><title type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</title><link href="http://localhost:4000/literature/ref-jtootchi-multi-2019/" rel="alternate" type="text/html" title="Multi-source global wetland maps combining surface water imagery and groundwater constraints" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-jtootchi-multi-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-jtootchi-multi-2019/">&lt;p&gt;@article{tootchi2019multi,
+  title={Multi-source global wetland maps combining surface water imagery and groundwater constraints},
+  author={Tootchi, Ardalan and Jost, Anne and Ducharne, Agn{`e}s},
+  journal={Earth System Science Data},
+  volume={11},
+  pages={189–220},
+  year={2019}
+}&lt;/p&gt;</content><author><name>Tootchi, Ardalan and Jost, Anne and Ducharne, Agnes</name></author><category term="wetland" /><category term="global" /><category term="indicators" /><category term="index" /><summary type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</summary></entry><entry><title type="html">Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)</title><link href="http://localhost:4000/literature/ref-ji-daily-water-modis-2018/" rel="alternate" type="text/html" title="Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001--2016)" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-ji-daily-water-modis-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-ji-daily-water-modis-2018/">&lt;p&gt;@article{ji2018dailywatermodis,
+  title={Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)},
+  author={Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang},
+  journal={Water Resources Research},
+  volume={54},
+  number={12},
+  pages={10–270},
+  year={2018},
+  publisher={Wiley Online Library}
+}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="wetness" /><category term="inundation" /><category term="remote sensing" /><category term="modis" /><summary type="html">Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001--2016)</summary></entry><entry><title type="html">USA Wetlands: NWI-Plus Classification System</title><link href="http://localhost:4000/literature/ref-finlayson-wetland-types-2016/" rel="alternate" type="text/html" title="USA Wetlands: NWI-Plus Classification System" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-finlayson-wetland-types-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-finlayson-wetland-types-2016/">&lt;p&gt;@article{finlayson2016typesdistro,
+  title={Wetland types and distribution},
+  author={Finlayson, C Max and Milton, G Randy and Prentice, R Crawford},
+  journal={The Wetland Book: II: Distribution, Description and Conservation},
+  pages={1–17},
+  year={2016},
+  publisher={Springer}
+}&lt;/p&gt;
+
+&lt;p&gt;Overview of global wetland types and their distribution. Summary tables on continental to global wetland collation. Some comparisons with Lehner and Döll.&lt;/p&gt;</content><author><name>Finlayson C.M., Milton G.R., Prentice R.C.</name></author><category term="wetland-classes" /><category term="global" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry><entry><title type="html">Wetland Delineation: Overview</title><link href="http://localhost:4000/literature/ref-tiner-wetland-delineation-2016/" rel="alternate" type="text/html" title="Wetland Delineation: Overview" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-tiner-wetland-delineation-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-tiner-wetland-delineation-2016/">&lt;p&gt;@article{tiner2016delineation,
+  title={Wetland Delineation: Overview},
+  author={Tiner, Ralph W},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1–15},
+  year={2016},
+  publisher={Springer}
+}&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="delineation" /><category term="indicators" /><summary type="html">Wetland Delineation: Overview</summary></entry><entry><title type="html">USA Wetlands: NWI-Plus Classification System</title><link href="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/" rel="alternate" type="text/html" title="USA Wetlands: NWI-Plus Classification System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-tiner-usa-wetlands-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/">&lt;p&gt;@article{tiner2016usa,
+  title={USA Wetlands: NWI-Plus Classification System},
+  author={Tiner, Ralph W},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1–8},
+  year={2016},
+  publisher={Springer}
+}&lt;/p&gt;
+
+&lt;p&gt;How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.&lt;/p&gt;
 
 &lt;h3 id=&quot;llww&quot;&gt;LLWW&lt;/h3&gt;
 
@@ -330,7 +343,16 @@ for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></autho
 
 &lt;h5 id=&quot;water-body-type&quot;&gt;Water body type&lt;/h5&gt;
 
-&lt;p&gt;Just listed, not elaborated in the above article.&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="USA" /><category term="NWI-Plus" /><category term="LLWW" /><category term="Cowardin" /><category term="Brinson" /><category term="hydrogenomorphic" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry><entry><title type="html">Wetland classification: Hydrogeomorphic System</title><link href="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/" rel="alternate" type="text/html" title="Wetland classification: Hydrogeomorphic System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/">&lt;p&gt;General article on Hydrogeomorphic Systems, with focus on Brinson (1993) and Brinson and Malvarez (2002).&lt;/p&gt;
+&lt;p&gt;Just listed, not elaborated in the above article.&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="USA" /><category term="NWI-Plus" /><category term="LLWW" /><category term="Cowardin" /><category term="Brinson" /><category term="hydrogenomorphic" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry><entry><title type="html">Wetland classification: Hydrogeomorphic System</title><link href="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/" rel="alternate" type="text/html" title="Wetland classification: Hydrogeomorphic System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/">&lt;p&gt;@article{semeniuk2016hydrogeomorphic,
+  title={Wetland Classification: Hydrogeomorphic System},
+  author={Semeniuk, CA and Semeniuk, V},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1–8},
+  year={2016},
+  publisher={Springer}
+}&lt;/p&gt;
+
+&lt;p&gt;General article on Hydrogeomorphic Systems, with focus on Brinson (1993) and Brinson and Malvarez (2002).&lt;/p&gt;
 
 &lt;p&gt;Brinson and Malvarez (2002) recognize seven classes defined from hydrologic characteristics and geomorphic position:&lt;/p&gt;
 &lt;ul&gt;
@@ -347,44 +369,4 @@ for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></autho
 
 &lt;h5 id=&quot;tg-comment&quot;&gt;TG comment&lt;/h5&gt;
 
-&lt;p&gt;The seven classes can not be defined from the same biophysical properties, a range of different properties are required. Thus I am not that happy with the system. But it is perhaps still the&lt;/p&gt;</content><author><name>Semeniuk, C.A. and Semeniuk, V.</name></author><category term="wetland-classes" /><category term="Hydrogeomorphic" /><summary type="html">Wetland classification: Hydrogeomorphic System</summary></entry><entry><title type="html">Peatland classification</title><link href="http://localhost:4000/literature/ref-lindsay-2016/" rel="alternate" type="text/html" title="Peatland classification" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-lindsay-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-lindsay-2016/">&lt;p&gt;Ecological classification approach. Main division is groundwater fed fens and ombrotrophic bogs. Within these broad classes, mires have been classified according to vegetation, chemistry, water source or geomorphology.&lt;/p&gt;
-
-&lt;p&gt;A widely accepted definition of peat as a soil is that it must contain at least 30 % organic matter and have a thickness of at least 30 cm (Joostein and Clarke, 2002).
-Weber (1907) defined fens (Niedermoor), raised bogs (Hochmoor) and an intermediate mire tyope that he called Übergangsmoor. Various definitions were in use until Du Rietz (1954) reviewed the terminologi and suggested that ombrotrophic (fed by rainfaill) mires be lablled bogs and minorotropics (fed mainly by groundwater or runoff) fens. In the popular venucalr, the terms are confused including for speficif sites.&lt;/p&gt;
-
-&lt;p&gt;Tansley (1939) explicitly used the terms bogs and fens dividing the two classes based on pH conditions.&lt;/p&gt;
-
-&lt;p&gt;Fens are by far of much more varying in character, but are less extensive and globally of less extent compared to bogs (a bit depenpent on what you mean by a fen). The definition of fens is thus more unclear and less consensus. In gerneal fens have a higher soulute concentriation, are more nutrient rich and have hihger pH combpared to Bogs. Fens can be find in all climate zones, including deserts.&lt;/p&gt;
-
-&lt;p&gt;Bogs, on the other hand, are only found under humid conditions. As they receive no, or little, later inflow, they are usually low in nutirents and have a low pH. However, in regions with larger amounts of airborne dust, pH can be higher and the Bog vegetation luxurantly gowing. This is the case for the reaised peat domes in Sout East Asia, locally referred to as Swamp forests )and not regarded as bogs). Other nonemnclature, including “basin bog” and “valley bog” would, following Du Rietz (1954) be regarded as fens.&lt;/p&gt;
-
-&lt;p&gt;A fen that accumulates sufficient orgnaic matter to raise its surface above the rurroundings will grow into a bog, in the climate conditions are favourable for that (other word).&lt;/p&gt;
-
-&lt;h3 id=&quot;hydromorphological-classification&quot;&gt;Hydromorphological Classification&lt;/h3&gt;
-
-&lt;p&gt;The ceoncept of using Hydromorphological characteristsics for classificying mires goes back at least to Von Post and Granlund (1926) that divided the minerotrpjic mires into topogenous (or topotrophic), dependent on water accumualtion in landscape depressions, and soligenous, dependent on flowing water. This division is still used, explicitly or implicitly, also in modern mire classifciation systems.&lt;/p&gt;
-
-&lt;h3 id=&quot;genesis-focuses&quot;&gt;Genesis focuses&lt;/h3&gt;
-
-&lt;p&gt;Building on the 3 prong system definition,
-Joostein and Clarke (2002) attempted to develop a mire classification system based on the genesis and hydromorpholoiigcal processes, recognizing that over time a mire will have two distinct horizontal layers (diplotelmic) : an upper layer with high water permeability - the acrotelm, and a lower layer with less permeability - the catotelm. mires lacking the dual layers are haplotemic, and can either be characterisex by a transmissivuty feedback towards the surface or have a homogenous permeability. These characteristics can not, at present, be discerned using remote sensing data.&lt;/p&gt;
-
-&lt;h3 id=&quot;i-texten-om-klassning&quot;&gt;I texten om klassning&lt;/h3&gt;
-
-&lt;p&gt;topogenous (or topomorphic) wetlands (inclduing topogenous mires) are characterized by both a disticnft eomorphological setting, as well as being more wet and with pools of of water (vad detta kallas i det kanadensiska systemet). THey are thus more striahgt forwards to identify from a remote sesning data. Soilgenous wetlands (including mires - canadian definition) commony lack surface pools (ref to canadian system) and are thus more difficult to distinguish in image data. They require hydroligcal data, that can only be acquired by modeling (or filed visit) the water flow.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-spatially-hierarchical-classification-of-mires&quot;&gt;A spatially hierarchical classification of mires&lt;/h3&gt;
-
-&lt;p&gt;Stemming from an Eastern European traditions, the integrated hiearchical classfication of landscape units, or topes (from the concept of ecotope orignally defined by Tansley, 1939) a system was developed by Ivanov (1981) and also adopted in e.g. Canada (Wells and Zoltai, 1985) and Norway (Moen,1985). The “tope” system is spatially hierarchical, starting from a tree and its surrounding, called a “synusia”, and then identifying different more or less compartementalized levels (e.g. nanotope, microtope, mesotope, macrotope, supertope), with the supertope including the entire wetlandscape (fens, bogs, open water, flodoplains the fucking lot).&lt;/p&gt;
-
-&lt;p&gt;the “tope” system is attractive, and will probably gain in relevance as methods (probably using Artifical Intelligence) develop for identifying the various hiearchical scales at diferent saptial and temporal resolution. At present that is, however, beyond, what is possible (tänk på RS arkeologgens vision om små drönare).&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="peatland classification" /><category term="wetland classification" /><summary type="html">Peatland classification</summary></entry><entry><title type="html">Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service</title><link href="http://localhost:4000/literature/ref-USDA-2008/" rel="alternate" type="text/html" title="Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service" /><published>2006-02-01T11:27:00+01:00</published><updated>2006-02-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-USDA-2008</id><content type="html" xml:base="http://localhost:4000/literature/ref-USDA-2008/">&lt;p&gt;An extension of the Hydrogeomorphic (HGM) wetland classification system proposed by Birnsion (1993), Smith et al (1995) and Brinson and Malvarez (2002).&lt;/p&gt;
-
-&lt;h4 id=&quot;hgm-subclasses&quot;&gt;HGM subclasses&lt;/h4&gt;
-
-&lt;p&gt;“It is important to note that in keeping with HGM principles, subclasses must be distinguished on the basis of morphological characteristics, water source, and/or hydrodynamics.”&lt;/p&gt;
-
-&lt;p&gt;The core part of the article is examples on how to expand the 7 classes identified by Smith et al., 1995.&lt;/p&gt;
-
-&lt;p&gt;Even if sympathetic, it is difficult to use with the biophysical map data I have, while at the same time dis-allowing using data on e.g. climate or vegetation.&lt;/p&gt;</content><author><name>USDA-NRCS</name></author><category term="wetland-classes" /><category term="peatland classification" /><category term="wetland classification" /><summary type="html">Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service</summary></entry><entry><title type="html">Temperate freshwater wetlands: types, status, and threats</title><link href="http://localhost:4000/literature/ref-brinson-2002/" rel="alternate" type="text/html" title="Temperate freshwater wetlands: types, status, and threats" /><published>2002-08-21T11:27:00+02:00</published><updated>2002-08-21T11:27:00+02:00</updated><id>http://localhost:4000/literature/ref-brinson-2002</id><content type="html" xml:base="http://localhost:4000/literature/ref-brinson-2002/"></content><author><name>Brinson, M. M. and Malvárez, A. I.</name></author><category term="wetland-classes" /><category term="Hydrogeomorphic" /><summary type="html">Temperate freshwater wetlands: types, status, and threats</summary></entry><entry><title type="html">Ecological gradients, subdivisions and terminology of north-west European mires</title><link href="http://localhost:4000/literature/ref-wheeler-2000/" rel="alternate" type="text/html" title="Ecological gradients, subdivisions and terminology of north-west European mires" /><published>2000-01-01T11:27:00+01:00</published><updated>2000-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-wheeler-2000</id><content type="html" xml:base="http://localhost:4000/literature/ref-wheeler-2000/">&lt;p&gt;Review of scientific studies and classification of mires in north-west Europe. Quite a lot of the early stuff came from Swedish studies.&lt;/p&gt;
-
-&lt;h6 id=&quot;the-authors-classification-scheme&quot;&gt;The authors classification scheme&lt;/h6&gt;</content><author><name>Brinson, M. M. and Malvárez, A. I.</name></author><category term="wetland-classes" /><category term="Europe" /><category term="mires" /><category term="peatland" /><category term="bogs" /><category term="fens" /><summary type="html">Ecological gradients, subdivisions and terminology of north-west European mires</summary></entry></feed>
+&lt;p&gt;The seven classes can not be defined from the same biophysical properties, a range of different properties are required. Thus I am not that happy with the system. But it is perhaps still the&lt;/p&gt;</content><author><name>Semeniuk, C.A. and Semeniuk, V.</name></author><category term="wetland-classes" /><category term="Hydrogeomorphic" /><summary type="html">Wetland classification: Hydrogeomorphic System</summary></entry></feed>

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis"
+author: "Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang"
+categories: literature
+DOI: https://doi.org/10.1016/j.catena.2017.09.010
+citationkey: xu2018peatmap
+excerpt: "PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis)"
+tags:
+  - peatland
+  - metastudy
+  - remote sensing
+  - global
+date: '2018-01-01 11:27'
+modified: '2019-12-26 T18:17:25.000Z'
+comments: true
+share: true
+abstract: "Abstract"
+---
+
+@article{xu2018peatmap,
+  title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis},
+  author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph},
+  journal={Catena},
+  volume={160},
+  pages={134--140},
+  year={2018},
+  publisher={Elsevier}
+}

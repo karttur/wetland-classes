@@ -4,7 +4,7 @@ title: "Classification and Inventory of Wetlands: A Global overview"
 author: "Scott, D.A. and Jones, T.A."
 categories: literature
 DOI: 10.1007/BF00045186
-citationkey: Scott1995
+citationkey: scott1995classification
 excerpt: "Classification and Inventory of Wetlands: A Global overview"
 tags:
   - wetland-classes
@@ -16,6 +16,17 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
+
+@article{scott1995classification,
+  title={Classification and inventory of wetlands: A global overview},
+  author={Scott, DA and Jones, TA},
+  journal={Vegetatio},
+  volume={118},
+  number={1-2},
+  pages={3--16},
+  year={1995},
+  publisher={Springer}
+}
 
 On how international efforts in developing a classification system lagged behind in 1995.
 

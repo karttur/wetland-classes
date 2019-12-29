@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Peatland classification"
-author: "Lindsay, Richard"
+title: "GlobWetland: ESA Earth Observation Project Series to Support Ramsar Convention"
+author: "Paganini, Marc"
 categories: literature
-DOI: https://doi.org/10.1007/978-90-481-9659-3_341
-citationkey: lindsay2018peatland
-excerpt: "Peatland classification"
+DOI: https://doi.org/10.1007/978-90-481-9659-3_311
+citationkey: pagnini2016globewetland
+excerpt: "GlobWetland: ESA Earth Observation Project Series to Support Ramsar Convention"
 tags:
   - wetland-classes
-  - peatland classification
-  - wetland classification
+  - globwetland
+  - ramsar
 date: '2016-01-01 11:27'
 modified: '2019-11-05 T18:17:25.000Z'
 comments: true
@@ -17,11 +17,11 @@ share: true
 abstract: "Abstract"
 ---
 
-@article{lindsay2018peatland,
-  title={Peatland classification},
-  author={Lindsay, Richard},
+@article{pagnini2016globewetland,
+  title={GlobWetland: ESA Earth Observation Project Series to Support Ramsar Convention},
+  author={Paganini, Marc},
   journal={The Wetland Book: I: Structure and Function, Management, and Methods},
-  pages={1515--1528},
+  pages={0--0},
   year={2018},
   publisher={Springer}
 }
