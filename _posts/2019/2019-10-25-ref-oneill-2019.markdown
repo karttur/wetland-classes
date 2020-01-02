@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas"
+author: "O'Neill, Alexander R"
+categories: literature
+DOI: https://doi.org/10.1016/j.gecco.2019.e00715
+citationkey: oneill2019himalaywetland
+excerpt: "Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas"
+tags:
+  - wetland-classes
+  - mapping
+  - remote sesning
+  - himalays
+date: '2019-10-05 11:27'
+modified: '2019-10-05 T18:17:25.000Z'
+comments: true
+share: true
+abstract: ""
+---
+
+@article{oneill2019himalaywetland,
+  title={Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas},
+  author={O'Neill, Alexander R},
+  journal={Global Ecology and Conservation},
+  volume={20},
+  pages={e00715},
+  year={2019},
+  publisher={Elsevier}
+}

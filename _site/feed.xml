@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-29T21:14:40+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-01T21:29:34+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
 
 &lt;p&gt;This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
 …
@@ -234,7 +234,15 @@ Wetland Classification: Overview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.env.gov.yk.ca/animals-habitat/documents/canadian_wetland_classification_system.pdf&quot;&gt;National Wetlands Working Group. 1997. The Canadian Wetland Classification System, 2nd Edition. Warner, B.G. and C.D.A. Rubec (eds.), Wetlands Research Centre, University of Waterloo, Waterloo, ON, Canada. 68 p.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/forum/wi/ACF357.pdf&quot;&gt;Classification of natural inland, coastal, and anthropogenic wetlands - a proposal to the Ramsar Bureau
-for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis</title><link href="http://localhost:4000/literature/ref-xu-peatmap-2018/" rel="alternate" type="text/html" title="PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-xu-peatmap-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-xu-peatmap-2018/">&lt;p&gt;@article{xu2018peatmap,
+for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</title><link href="http://localhost:4000/literature/ref-oneill-2019/" rel="alternate" type="text/html" title="Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas" /><published>2019-10-05T11:27:00+02:00</published><updated>2019-10-05T11:27:00+02:00</updated><id>http://localhost:4000/literature/ref-oneill-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-oneill-2019/">&lt;p&gt;@article{oneill2019himalaywetland,
+  title={Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas},
+  author={O’Neill, Alexander R},
+  journal={Global Ecology and Conservation},
+  volume={20},
+  pages={e00715},
+  year={2019},
+  publisher={Elsevier}
+}&lt;/p&gt;</content><author><name>O'Neill, Alexander R</name></author><category term="wetland-classes" /><category term="mapping" /><category term="remote sesning" /><category term="himalays" /><summary type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</summary></entry><entry><title type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis</title><link href="http://localhost:4000/literature/ref-xu-peatmap-2018/" rel="alternate" type="text/html" title="PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-xu-peatmap-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-xu-peatmap-2018/">&lt;p&gt;@article{xu2018peatmap,
   title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis},
   author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph},
   journal={Catena},
@@ -343,30 +351,4 @@ for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></autho
 
 &lt;h5 id=&quot;water-body-type&quot;&gt;Water body type&lt;/h5&gt;
 
-&lt;p&gt;Just listed, not elaborated in the above article.&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="USA" /><category term="NWI-Plus" /><category term="LLWW" /><category term="Cowardin" /><category term="Brinson" /><category term="hydrogenomorphic" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry><entry><title type="html">Wetland classification: Hydrogeomorphic System</title><link href="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/" rel="alternate" type="text/html" title="Wetland classification: Hydrogeomorphic System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-semeniuk-wetland-class-hydrogeomorphic-2016/">&lt;p&gt;@article{semeniuk2016hydrogeomorphic,
-  title={Wetland Classification: Hydrogeomorphic System},
-  author={Semeniuk, CA and Semeniuk, V},
-  journal={The Wetland Book: I: Structure and Function, Management and Methods},
-  pages={1–8},
-  year={2016},
-  publisher={Springer}
-}&lt;/p&gt;
-
-&lt;p&gt;General article on Hydrogeomorphic Systems, with focus on Brinson (1993) and Brinson and Malvarez (2002).&lt;/p&gt;
-
-&lt;p&gt;Brinson and Malvarez (2002) recognize seven classes defined from hydrologic characteristics and geomorphic position:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;DEPRESSIONAL&lt;/li&gt;
-  &lt;li&gt;RIVERINE&lt;/li&gt;
-  &lt;li&gt;MINERAL SOIL WET FLATS&lt;/li&gt;
-  &lt;li&gt;ORGANIC SOIL WET FLATS&lt;/li&gt;
-  &lt;li&gt;ESTUARINE (TIDAL FRINGE)&lt;/li&gt;
-  &lt;li&gt;LACUSTRINE (LACUSTRINE FRINGE)&lt;/li&gt;
-  &lt;li&gt;SLOPES&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The scheme by Brinson and Malvarez (2002) was expanded by the US dept of Ag (I have the article), including adding subclasses.&lt;/p&gt;
-
-&lt;h5 id=&quot;tg-comment&quot;&gt;TG comment&lt;/h5&gt;
-
-&lt;p&gt;The seven classes can not be defined from the same biophysical properties, a range of different properties are required. Thus I am not that happy with the system. But it is perhaps still the&lt;/p&gt;</content><author><name>Semeniuk, C.A. and Semeniuk, V.</name></author><category term="wetland-classes" /><category term="Hydrogeomorphic" /><summary type="html">Wetland classification: Hydrogeomorphic System</summary></entry></feed>
+&lt;p&gt;Just listed, not elaborated in the above article.&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="USA" /><category term="NWI-Plus" /><category term="LLWW" /><category term="Cowardin" /><category term="Brinson" /><category term="hydrogenomorphic" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry></feed>
