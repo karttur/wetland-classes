@@ -2,7 +2,7 @@
 layout: post
 title: "A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands"
 author: "Grenfell, S et al."
-categories: literature
+categories: reference
 DOI: 10.3389/fenvs.2019.00174
 excerpt: "A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands"
 tags:
@@ -17,20 +17,28 @@ modified: '2019-11-05 T18:17:25.000Z'
 comments: true
 share: true
 abstract: "Due to climatic constraints in dryland regions, wetlands usually occur at confluences of flow paths, whether from surface flow, inter-flow or at locations of groundwater discharge. Long-term landscape processes that shape valleys and focus the movement of water and sediment are accountable for providing a suitable template with which hydrology interacts to allow wetland formation. Current hydrogeomorphic classification systems do not address system-scale linkages of sediment and water transport across the landscape, and are therefore unable to contextualise long-term process dynamics. Misunderstanding long-term earth system processes can result in the application of inappropriate restoration strategies that isolate wetlands from longitudinal drivers of their formation. We propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands. The classification aims to impart understanding of dynamic processes of sediment transport through wetlands, such that restoration plans can be sensitive to long-term landscape processes. The classification system, derived from a combination of international literature and published South African case studies, has four wetland macrotypes based on sediment source (colluvial, alluvial, Aeolian, and geochemical). These are subdivided into eight wetland types; hillslope seep, floodplain, valley-bottom, plain, blocked-valley, alluvial fan, aeolian depression, and geochemical depression. The classification is based on landscape location, shape, and the occurrence of geomorphic characteristics indicative of process."
----
-
-The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.
+review: "The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.
 
 This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
-...
+
 The system does not consider hydroperiod explicitly, but rather aims to describe landscape setting and landform, and consider hydrologically-linked processes of sediment erosion, transport and deposition that may be associated with each wetland.
 
-"Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form."
+Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form.
 
 The Cowardin et al. (1979) wetland definition has been used as the starting point for several wetland hydrogeomorphic classification systems, including those of Cowardin and Golet (1995), Brinson (1993) and Semeniuk and Semeniuk (1995). According to Finlayson and van der Valk (1995), the primary reason for developing a classification system is to support wetland inventory by standardising and defining terms to describe wetland types to allow successful wetland conservation and management. We argue that a wetland classification system can be more than a system for inventory, and that it can also be used as a tool to improve understanding of wetland processes and dynamics (Kondolf and Piégay, 2016).
 
 A failure to appropriately conceptualise natural and human induced trajectories of change in wetlands, in tandem with a lack of appreciation of the importance of longitudinal (dis)connectivity, can result in poor outcomes for wetland restoration in dryland environments.
 
-the hydrogeomorphic classification scheme currently in use in South Africa, developed by Ewart-Smith et al. (2006) and Ollis et al. (2015), incorporates very little geomorphological insight beyond consideration of the landscape setting, and emphasises “product” (landscape setting) over “process” (dynamic feedbacks between process and form) geomorphology (Lisenby et al., 2019). The result is that short-term hydrological processes are considered the master variable in wetlands with developmental histories that in many cases extend over several millennia, and have been shaped by a highly complex interplay between a geological template and dynamic flows and fluxes of earth surface material (Tooth and McCarthy, 2007; Lisenby et al., 2019).
+the hydrogeomorphic classification scheme currently in use in South Africa, developed by Ewart-Smith et al. (2006) and Ollis et al. (2015), incorporates very little geomorphological insight beyond consideration of the landscape setting, and emphasises 'product' (landscape setting) over 'process' (dynamic feedbacks between process and form) geomorphology (Lisenby et al., 2019). The result is that short-term hydrological processes are considered the master variable in wetlands with developmental histories that in many cases extend over several millennia, and have been shaped by a highly complex interplay between a geological template and dynamic flows and fluxes of earth surface material (Tooth and McCarthy, 2007; Lisenby et al., 2019).
 
-Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.
+Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought."
+---
+@article{grenfell2019genetic,
+  title={A genetic geomorphic classification system for southern African palustrine wetlands: global implications for the management of wetlands in drylands},
+  author={Grenfell, Suzanne Elaine and Grenfell, Michael Cyril and Ellery, William Nolan and Job, Nancy and Walters, Damian},
+  journal={Frontiers in Environmental Science},
+  volume={7},
+  pages={174},
+  year={2019},
+  publisher={Frontiers}
+}

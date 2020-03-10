@@ -2,10 +2,9 @@
 layout: post
 title: "Wetlands of the Darling System-a geomorphic approach to habitat classification"
 author: "Semeniuk, C.A."
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: semeniuk1987wetlands
-excerpt: "Wetlands of the Darling System-a geomorphic approach to habitat classification"
 tags:
   - wetland-classes
   - Geomorphic System
@@ -17,7 +16,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{semeniuk1987wetlands,
   title={Wetlands of the Darling System-a geomorphic approach to habitat classification},
   author={Semeniuk, CA},

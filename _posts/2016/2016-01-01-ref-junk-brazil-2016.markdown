@@ -2,10 +2,9 @@
 layout: post
 title: "Brazilian wetlands: classification"
 author: "Junk, Wolfgang J and Piedade, Maria TF and Schoengart, Jochen and Wittmann, Florian and da Cunha, Catia Nunes"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1007/978-94-007-6172-8_333-1
 citationkey: junk2016brazilian
-excerpt: "Brazilian wetlands: classification"
 tags:
   - wetland-classes
   - Brazil
@@ -18,7 +17,6 @@ abstract: "Brazil contains a large number and variety of wetlands. Pronounced we
 
 The wetland delimitation also includes permanent terrestrial macrohabitats as intrinsic parts of large wetlands, essential for the maintenance of their ecological integrity and biodiversity. The peculiar hydrological conditions in the wetlands account for the conflicting positions of the different stake holders. The new Brazilian Forest Code (Federal Law no. 12.561/12), responding to the pressure of agrobusiness and planners, defines the protected area of wetlands depending on the width of the river channel at the “regular water level.” As a result, large parts of the fringing floodplains and riparian zones are unprotected. The destruction of the wetlands will have dramatic economic and social consequences for the people, living in and around the wetlands because of the reduction of the hydrological buffer capacity of the river-wetland systems. Furthermore, the diversity of macrohabitats inside the wetlands and the related biodiversity will be destroyed. A hierarchical wetland classification system, based on hydrological parameters and higher plants, has been proposed and a macrohabitat classification of major wetland systems has been elaborated to provide a scientific basis for the sustainable management and protection of Brazilian wetlands."
 ---
-
 @article{junk2016brazilian,
   title={Brazilian wetlands: classification},
   author={Junk, Wolfgang J and Piedade, Maria TF and Schoengart, Jochen and Wittmann, Florian and da Cunha, Catia Nunes},

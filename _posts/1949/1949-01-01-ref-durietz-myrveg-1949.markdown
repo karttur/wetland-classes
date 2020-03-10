@@ -2,10 +2,9 @@
 layout: post
 title: "Huvudenheter och huvudgränser i svensk myrvegetation"
 author: "Du Rietz, G.E."
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: durietz1949myrveg
-excerpt: "Huvudenheter och huvudgränser i svensk myrvegetation"
 tags:
   - wetland-classes
   - sverige
@@ -28,10 +27,5 @@ abstract: "abstract."
   journal={Svensk botanisk tidskrift},
   volume={43},
   pages={274--309},
-  year={2000}
+  year={1949}
 }
-
-Review of scientific studies and classification of mires in north-west Europe. Quite a lot of the early stuff came from Swedish studies.
-
-
-###### The authors classification scheme

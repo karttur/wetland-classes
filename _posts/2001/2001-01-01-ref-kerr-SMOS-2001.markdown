@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Soil moisture retrieval from space: the Soil Moisture and Ocean Salinity (SMOS) mission"
+author: "Kerr, Y.H. and Waldteufel, P. and Wigneron, J.-P. and Martinuzzi, J. and Font, J. and Berger, M."
+categories: reference
+DOI:
+citationkey: Kerr2001SMOS
+tags:
+  - SMOS
+  - microwave
+  - soil mositure
+date: '2001-06-01 11:27'
+modified: '2019-11-05 T18:17:25.000Z'
+comments: true
+share: true
+abstract: ""
+---
+@article{Kerr2001SMOS,
+author = {Kerr, Y.H. and Waldteufel, P. and Wigneron, J.-P. and Martinuzzi, J. and Font, J. and Berger, M.},
+doi = {10.1109/36.942551},
+issn = {01962892},
+journal = {IEEE Transactions on Geoscience and Remote Sensing},
+number = {8},
+pages = {1729--1735},
+title = {Soil moisture retrieval from space: the Soil Moisture and Ocean Salinity (SMOS) mission},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=942551},
+volume = {39},
+year = {2001}
+}

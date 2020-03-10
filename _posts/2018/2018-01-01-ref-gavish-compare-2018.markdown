@@ -2,10 +2,9 @@
 layout: post
 title: "Comparing the performance of flat and hierarchical Habitat/Land-Cover classification models in a NATURA 2000 site"
 author: "Gavish, Yoni and O'Connell, Jerome and Marsh, Charles J and Tarantino, Cristina and Blonda, Palma and Tomaselli, Valeria and Kunin, William E"
-categories: literature
+categories: reference
 DOI:  https://doi.org/10.1016/j.isprsjprs.2017.12.002
 citationkey: gavish2018comparing
-excerpt: "Comparing the performance of flat and hierarchical Habitat/Land-Cover classification models in a NATURA 2000 site"
 tags:
   - land cover
   - hierachical classification
@@ -17,7 +16,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @article{gavish2018comparing,
   title={Comparing the performance of flat and hierarchical Habitat/Land-Cover classification models in a NATURA 2000 site},
   author={Gavish, Yoni and O'Connell, Jerome and Marsh, Charles J and Tarantino, Cristina and Blonda, Palma and Tomaselli, Valeria and Kunin, William E},

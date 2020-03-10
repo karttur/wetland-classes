@@ -2,9 +2,8 @@
 layout: post
 title: "USA Wetlands: NWI-Plus Classification System"
 author: "Tiner, R."
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1007/978-94-007-6172-8_337-1
-excerpt: "USA Wetlands: NWI-Plus Classification System"
 tags:
   - wetland-classes
   - USA
@@ -18,20 +17,9 @@ modified: '2019-11-05 T18:17:25.000Z'
 comments: true
 share: true
 abstract: "Abstract"
----
+review: "How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.
 
-@article{tiner2016usa,
-  title={USA Wetlands: NWI-Plus Classification System},
-  author={Tiner, Ralph W},
-  journal={The Wetland Book: I: Structure and Function, Management and Methods},
-  pages={1--8},
-  year={2016},
-  publisher={Springer}
-}
-
-How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.
-
-### LLWW
+LLWW
 
 The geomorphic characteristics LLWW, stands for:
 
@@ -40,7 +28,7 @@ The geomorphic characteristics LLWW, stands for:
 - water flow path and
 - waterbody type
 
-##### Landscape position
+Landscape position
 
 Position relative to a water body (not __the__ water body _per se_?):
 - marine
@@ -51,7 +39,7 @@ Position relative to a water body (not __the__ water body _per se_?):
 
 These are, in my mind, not landscape positions, but juxtapositions vis-a-vis lateral water sources. I think the term is misleading. In my classification schema I call this property __juxtaposition__
 
-##### Landform
+Landform
 
 Physical shape of wetlands.
 
@@ -65,7 +53,7 @@ Physical shape of wetlands.
 
 This is a mixture of textural and contextural landforms. I do not think they are well defined. In my classification schema the two properies __textural__ and __contextural__ are used for these properties.
 
-##### Water flow
+Water flow
 
 Defines the direction of flow of water associated with the wetland.
 
@@ -79,6 +67,15 @@ Defines the direction of flow of water associated with the wetland.
 
 These properties can not be captured by on a pixel scale, but requires a thematic classification. Instead the water balance of each cell is defined, and in my classification this is then divided into __water source__ and __water fluctuation__.
 
-##### Water body type
+Water body type
 
-Just listed, not elaborated in the above article.
+Just listed, not elaborated in the above article."
+---
+@article{tiner2016usa,
+  title={USA Wetlands: NWI-Plus Classification System},
+  author={Tiner, Ralph W},
+  journal={The Wetland Book: I: Structure and Function, Management and Methods},
+  pages={1--8},
+  year={2016},
+  publisher={Springer}
+}

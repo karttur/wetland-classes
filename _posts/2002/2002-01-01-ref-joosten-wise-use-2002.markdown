@@ -2,10 +2,9 @@
 layout: post
 title: "Wise use of mires and peatlands"
 author: "Joosten, Hans and Clarke, Donal"
-categories: literature
+categories: reference
 DOI: 10.1017/S0376892902000085
 citationkey: joosten2002wise
-excerpt: "Wise use of mires and peatlands"
 tags:
   - wetland-classes
   - mire
@@ -15,7 +14,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{joosten2002wise,
   title={Wise use of mires and peatlands},
   author={Joosten, Hans and Clarke, Donal},

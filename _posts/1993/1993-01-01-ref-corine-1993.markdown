@@ -2,10 +2,9 @@
 layout: post
 title: "CORINE Land Cover—Technical Guide. European Commission, Directorate-General Environment"
 author: "Heyman, Y and others"
-categories: literature
+categories: reference
 DOI: 00000
-citationskey: heuman1993hcorine
-excerpt: "CORINE Land Cover—Technical Guide. European Commission, Directorate-General Environment"
+citationskey: heuman1993corine
 tags:
   - landcover
   - classification
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{heyman1993corine,
   title={CORINE Land Cover—Technical Guide. European Commission, Directorate-General Environment},
   author={Heyman, Y and others},

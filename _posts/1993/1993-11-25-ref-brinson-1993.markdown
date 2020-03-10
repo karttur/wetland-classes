@@ -2,46 +2,23 @@
 layout: post
 title: "A Hydrogeomorphic Classification for Wetlands"
 author: "Brinson, M. M."
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationskey: brinson1993hydrogeomorphic
-excerpt: "A Hydrogeomorphic Classification for Wetlands"
 tags:
   - wetland-classes
   - wetland geomorphology
   - wetland classification
-  - HYDROLOGY  
-  - SURFACES
-  - OCEANS
-  - VEGETATION
-  - HYDRODYNAMICS
-  - SEA LEVEL
-  - STREAMS
-  - PEAT
+  - hydrogeomorphic
 date: '1993-11-05 11:27'
 modified: '2019-11-05 T18:17:25.000Z'
 comments: true
 share: true
 abstract: "Wetlands can be classified by methods that range from the use of commonly recognized vegetation or cover types, to systems based on hydrology, geomorphology, or some combination of the two. The classification presented here is based on the hydrogeomorphic functions of wetlands. There are three basic properties that are used to provide insight into wetland functions: 1. Geomorphic setting-The three categories are depressional, riverine, and fringe. Extensive peatlands constitute a separate category because of their unique topographic and hydrologic conditions. Depressional wetlands can be open or closed to surface flows, and can be tightly or loosely connected to groundwater flows. Riverine wetlands range from those associated with steep to low gradient streams and are represented by floodplains. Fringe wetlands are sea level or lake level controlled. Peat lands normally initiate their development in depressions. If peat lands develop beyond the original depression, they can create their own unique geomorphic settings. Each of these four types roughly corresponds with limited combinations of water sources and hydrodynamic conditions."
 ---
-
 @techreport{brinson1993hydrogeomorphic,
   title={A hydrogeomorphic classification for wetlands},
   author={Brinson, Mark M},
   year={1993},
   institution={EAST CAROLINA UNIV GREENVILLE NC}
 }
-
-The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.
-
-This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
-...
-The system does not consider hydroperiod explicitly, but rather aims to describe landscape setting and landform, and consider hydrologically-linked processes of sediment erosion, transport and deposition that may be associated with each wetland.
-
-"Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form."
-
-The Cowardin et al. (1979) wetland definition has been used as the starting point for several wetland hydrogeomorphic classification systems, including those of Cowardin and Golet (1995), Brinson (1993) and Semeniuk and Semeniuk (1995). According to Finlayson and van der Valk (1995), the primary reason for developing a classification system is to support wetland inventory by standardising and defining terms to describe wetland types to allow successful wetland conservation and management. We argue that a wetland classification system can be more than a system for inventory, and that it can also be used as a tool to improve understanding of wetland processes and dynamics (Kondolf and Piégay, 2016).
-
-A failure to appropriately conceptualise natural and human induced trajectories of change in wetlands, in tandem with a lack of appreciation of the importance of longitudinal (dis)connectivity, can result in poor outcomes for wetland restoration in dryland environments.
-
-Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.

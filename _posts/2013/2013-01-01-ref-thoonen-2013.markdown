@@ -2,10 +2,9 @@
 layout: post
 title: "Classification of heathland vegetation in a hierarchical contextual framework"
 author: "Thoonen, G and Spanhove, T and Vanden Borre, J and Scheunders, P"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1080/01431161.2012.708061
 citationkey: thoonen2013classification
-excerpt: "Classification of heathland vegetation in a hierarchical contextual framework"
 tags:
   - supervise classification
   - heathland
@@ -17,7 +16,6 @@ comments: true
 share: true
 abstract: "Heathlands in Western Europe have shown dramatic declines over the last century and therefore have been given a high conservation priority in the Habitats Directive of the European Union (EU). Accurate surveying and monitoring of heathland habitats is essential for appropriate conservation management, but the large heterogeneity of vegetation types within habitats as well as the occurrence of similar vegetation across habitat types hinders a straightforward, automated mapping based on aerial images. In such a case, a context-dependent classification algorithm is expected to be superior to traditional classification techniques. This article presents a novel approach to map the conservation status of heathland vegetation by using a hierarchical classification scheme that describes the structural dependencies in the field between the basic vegetation and the land-cover types that habitats are composed of. These dependency relationships are included as contextual information in the classification process, using a tree-structured Markov random field (TS-MRF) technique with a tree that reflects the hierarchy of the classification scheme. Results of this approach for a heathland area in Belgium were compared with results from more conventional classification approaches. Validation of the results showed that the structure of the scheme contained important spatial relationships, which were further reinforced by using the contextual classification strategy, especially for the most detailed level of the classification scheme. Accuracy increased and the classification results were more suitable for visual interpretation."
 ---
-
 @article{thoonen2013classification,
   title={Classification of heathland vegetation in a hierarchical contextual framework},
   author={Thoonen, G and Spanhove, T and Vanden Borre, J and Scheunders, P},

@@ -2,8 +2,8 @@
 layout: post
 title: "Wetlands of the Darling System, southwestern Australia: a descriptive classification using vegetation pattern and form"
 author: "Semeniuk, CA and Semeniuk, V and Cresswell, ID and Marchant, NG"
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: semeniuk1990wetlands
 excerpt: "Wetlands of the Darling System, southwestern Australia: a descriptive classification using vegetation pattern and form"
 tags:
@@ -16,7 +16,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{semeniuk1990wetlands,
   title={Wetlands of the Darling System, southwestern Australia: a descriptive classification using vegetation pattern and form},
   author={Semeniuk, CA and Semeniuk, V and Cresswell, ID and Marchant, NG},

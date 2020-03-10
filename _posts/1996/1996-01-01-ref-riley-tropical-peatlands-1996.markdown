@@ -2,10 +2,9 @@
 layout: post
 title: "The extent and nature of tropical peat swamps—tropical lowland peatlands of Southeast Asia"
 author: "Rieley, JO and Ahmad-Shah, AA and Brady, MA"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1142/9781848160125_0014
 citationkey: rieley1996extent
-excerpt: "The extent and nature of tropical peat swamps—tropical lowland peatlands of Southeast Asia"
 tags:
   - peatlands
   - Indonesia
@@ -17,7 +16,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @inproceedings{rieley1996extent,
   title={The extent and nature of tropical peat swamps—tropical lowland peatlands of Southeast Asia},
   author={Rieley, JO and Ahmad-Shah, AA and Brady, MA},

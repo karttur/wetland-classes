@@ -2,10 +2,9 @@
 layout: post
 title: "Temperate freshwater wetlands: types, status, and threats"
 author: "Brinson, Mark M and Malvarez, Ana"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1017/S0376892902000085
 citationkey: brinson2002temperate
-excerpt: "Temperate freshwater wetlands: types, status, and threats"
 tags:
   - wetland-classes
   - hydrogeomorphological
@@ -15,7 +14,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{brinson2002temperate,
   title={Temperate freshwater wetlands: types, status, and threats},
   author={Brinson, Mark M and Malv{\'a}rez, Ana In{\'e}s},

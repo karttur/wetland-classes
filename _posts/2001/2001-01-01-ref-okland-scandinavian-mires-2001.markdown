@@ -2,10 +2,9 @@
 layout: post
 title: "A Scandinavian perspective on ecological gradients in north-west European mires: reply to Wheeler and Proctor"
 author: "Okland, Rune Halvorsen and Okland, Tonje and Rydgren, Knut"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1046/j.1365-2745.2001.00573.x
 citationkey: okland2001scandinavian
-excerpt: "A Scandinavian perspective on ecological gradients in north-west European mires: reply to Wheeler and Proctor"
 tags:
   - wetland-classes
   - classification
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{okland2001scandinavian,
   title={A Scandinavian perspective on ecological gradients in north-west European mires: reply to Wheeler and Proctor},
   author={Okland, Rune Halvorsen and Okland, Tonje and Rydgren, Knut},

@@ -1,0 +1,32 @@
+---
+layout: post
+title: "The SMOS Mission: New Tool for Monitoring Key Elements of the Global Water Cycle"
+author: "Kerr, Y H and Waldteufel, P and Wigneron, J.-P. and Delwart, S and Cabot, F and Boutin, J and Escorihuela, M.-J. and Font, J and Reul, N and Gruhier, C and Juglea, S E and Drinkwater, M R and Hahne, A and Martin-Neira, M and Mecklenburg, S"
+categories: reference
+DOI:
+citationkey: Kerr2010SMOS
+tags:
+  - soil moisture
+  - SMOS
+  - remote sensing
+  - micorwave
+date: '2010-01-01 11:27'
+modified: '2019-12-26 T18:17:25.000Z'
+comments: true
+share: true
+abstract: "It is now well understood that data on soil moisture and sea surface salinity (SSS) are required to improve meteorological and climate predictions. These two quantities are not yet available globally or with adequate temporal or spatial sampling. It is recognized that a spaceborne L-band radiometer with a suitable antenna is the most promising way of fulfilling this gap. With these scientific objectives and technical solution at the heart of a proposed mission concept the European Space Agency (ESA) selected the Soil Moisture and Ocean Salinity (SMOS) mission as its second Earth Explorer Opportunity Mission. The development of the SMOS mission was led by ESA in collaboration with the Centre National d'Etudes Spatiales (CNES) in France and the Centro para el Desarrollo Tecnologico Industrial (CDTI) in Spain. SMOS carries a single payload, an L-Band 2-D interferometric radiometer operating in the 1400-1427-MHz protected band . The instrument receives the radiation emitted from Earth's surface, which can then be related to the moisture content in the first few centimeters of soil over land, and to salinity in the surface waters of the oceans. SMOS will achieve an unprecedented maximum spatial resolution of 50 km at L-band over land (43 km on average over the field of view), providing multiangular dual polarized (or fully polarized) brightness temperatures over the globe. SMOS has a revisit time of less than 3 days so as to retrieve soil moisture and ocean salinity data, meeting the mission's science objectives. The caveat in relation to its sampling requirements is that SMOS will have a somewhat reduced sensitivity when compared to conventional radiometers. The SMOS satellite was launched successfully on November 2, 2009."
+---
+@article{Kerr2010SMOS,
+abstract = {It is now well understood that data on soil moisture and sea surface salinity (SSS) are required to improve meteorological and climate predictions. These two quantities are not yet available globally or with adequate temporal or spatial sampling. It is recognized that a spaceborne L-band radiometer with a suitable antenna is the most promising way of fulfilling this gap. With these scientific objectives and technical solution at the heart of a proposed mission concept the European Space Agency (ESA) selected the Soil Moisture and Ocean Salinity (SMOS) mission as its second Earth Explorer Opportunity Mission. The development of the SMOS mission was led by ESA in collaboration with the Centre National d'Etudes Spatiales (CNES) in France and the Centro para el Desarrollo Tecnologico Industrial (CDTI) in Spain. SMOS carries a single payload, an L-Band 2-D interferometric radiometer operating in the 1400-1427-MHz protected band . The instrument receives the radiation emitted from Earth's surface, which can then be related to the moisture content in the first few centimeters of soil over land, and to salinity in the surface waters of the oceans. SMOS will achieve an unprecedented maximum spatial resolution of 50 km at L-band over land (43 km on average over the field of view), providing multiangular dual polarized (or fully polarized) brightness temperatures over the globe. SMOS has a revisit time of less than 3 days so as to retrieve soil moisture and ocean salinity data, meeting the mission's science objectives. The caveat in relation to its sampling requirements is that SMOS will have a somewhat reduced sensitivity when compared to conventional radiometers. The SMOS satellite was launched successfully on November 2, 2009.},
+author = {Kerr, Y H and Waldteufel, P and Wigneron, J.-P. and Delwart, S and Cabot, F and Boutin, J and Escorihuela, M.-J. and Font, J and Reul, N and Gruhier, C and Juglea, S E and Drinkwater, M R and Hahne, A and Martin-Neira, M and Mecklenburg, S},
+doi = {10.1109/JPROC.2010.2043032},
+file = {:Users/thomasg/Documents/Mendeley Desktop/Proceedings of the IEEE/2010/Kerr et al. - 2010 - The SMOS Mission New Tool for Monitoring Key Elements of the Global Water Cycle.pdf:pdf},
+isbn = {0018-9219 VO - 98},
+journal = {Proceedings of the IEEE},
+keywords = {Centro para el Desarrollo Tecnologico Industrial,Earth,Earth Explorer Opportunity Mission,European Space Agency,Interferometry,L-Band 2D interferometric radiometer,L-band,Land surface,Monitoring,Ocean temperature,Polarization,Radiometry,SMOS mission,Sampling methods,Sea surface,Soil Moisture and Ocean Salinity (SMOS),climate predictions,frequency 1400 MHz to 1427 MHz,geophysical techniques,global water cycle key element monitoring,interferometry,l-band,meteorological predictions,multiangular dual polarized brightness temperature,remote sensing,salinity,sea surface salinity,sea surface salinity (SSS),sea surface salinity data,smos,soil,soil moisture,soil moisture and ocean,soil moisture data,spaceborne L-band radiometer,sss,vegetation,vegetation water content,water},
+number = {5},
+pages = {666--687},
+title = {The SMOS Mission: New Tool for Monitoring Key Elements of the Global Water Cycle},
+volume = {98},
+year = {2010}
+}

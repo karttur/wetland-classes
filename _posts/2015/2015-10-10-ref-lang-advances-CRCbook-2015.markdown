@@ -2,10 +2,9 @@
 layout: post
 title: "Advances in remotely sensed data and techniques for wetland mapping and monitoring."
 author: "Lang, M and Bourgeau-Chavez, Laura L and Tiner, Ralph W and Klemas, Victor V"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.3390/rs70810938
 citationkey: lang2015advances
-excerpt: "Advances in remotely sensed data and techniques for wetland mapping and monitoring."
 tags:
   - wetlands
   - remote sensing
@@ -17,7 +16,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{lang2015advances,
   title={Advances in remotely sensed data and techniques for wetland mapping and monitoring},
   author={Lang, M and Bourgeau-Chavez, Laura L and Tiner, Ralph W and Klemas, Victor V},

@@ -2,10 +2,9 @@
 layout: post
 title: "Classification of mires for conservation purposes in Norway."
 author: "Moen, Asbjörn"
-categories: literature
+categories: reference
 DOI: 10.1017/S0376892902000085
 citationkey: moen1985classification
-excerpt: "Classification of mires for conservation purposes in Norway"
 tags:
   - wetland-classes
   - mires
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{moen1985classification,
   title={Classification of mires for conservation purposes in Norway.},
   author={Moen, ASBJ0RN},

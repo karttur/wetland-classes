@@ -2,10 +2,9 @@
 layout: post
 title: "Brazilian wetlands: their definition, delineation, and classification for research, sustainable management, and protection."
 author: "Junk, Wolfgang J and Piedade, MTF and Lourival, R and Wittmann, F and Kandus, P and Lacerda, LD and Bozelli, RL and Esteves, FA and Nunes da Cunha, C and Maltchik, L and others"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1002/aqc.2386
 citationkey: junk2014brazilian
-excerpt: "Brazilian wetlands: their definition, delineation, and classification for research, sustainable management, and protection."
 tags:
   - wetlands
   - classification
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{junk2014brazilian,
   title={Brazilian wetlands: their definition, delineation, and classification for research, sustainable management, and protection},
   author={Junk, Wolfgang J and Piedade, MTF and Lourival, R and Wittmann, F and Kandus, P and Lacerda, LD and Bozelli, RL and Esteves, FA and Nunes da Cunha, C and Maltchik, L and others},

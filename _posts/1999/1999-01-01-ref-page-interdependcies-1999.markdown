@@ -2,10 +2,9 @@
 layout: post
 title: "Interdependence of peat and vegetation in a tropical peat swamp forest"
 author: "Page, SE and Rieley, JO and Shotyk, OW and Weiss, Dominik"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1142/9781848160125_0014
 citationkey: page1999interdependence
-excerpt: "Interdependence of peat and vegetation in a tropical peat swamp forest"
 tags:
   - peatlands
   - global
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @incollection{page1999interdependence,
   title={Interdependence of peat and vegetation in a tropical peat swamp forest},
   author={Page, SE and Rieley, JO and Shotyk, OW and Weiss, Dominik},

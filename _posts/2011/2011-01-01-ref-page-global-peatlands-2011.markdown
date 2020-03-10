@@ -2,7 +2,7 @@
 layout: post
 title: "Global and regional importance of the tropical peatland carbon pool"
 author: "Page, Susan E and Rieley, John O and Banks, Christopher J"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1111/j.1365-2486.2010.02279.x
 citationkey: page2011globalpeatland
 excerpt: "Global and regional importance of the tropical peatland carbon pool"
@@ -17,7 +17,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @article{page2011globalpeatland,
   title={Global and regional importance of the tropical peatland carbon pool},
   author={Page, Susan E and Rieley, John O and Banks, Christopher J},

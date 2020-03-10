@@ -1,0 +1,27 @@
+---
+layout: post
+title: "NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space"
+author: "Gao, Bo-Cai"
+categories: reference
+DOI:
+citationkey: gao1996ndwi
+tags:
+  - ndwi
+  - remote sensing
+  - optical
+date: '1996-01-01 11:27'
+modified: '2020-03-08 T18:17:25.000Z'
+comments: true
+share: true
+abstract: "Abstract"
+---
+@article{gao1996ndwi,
+  title={NDWI—A normalized difference water index for remote sensing of vegetation liquid water from space},
+  author={Gao, Bo-Cai},
+  journal={Remote sensing of environment},
+  volume={58},
+  number={3},
+  pages={257--266},
+  year={1996},
+  publisher={Elsevier}
+}

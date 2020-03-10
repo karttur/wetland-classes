@@ -2,33 +2,29 @@
 layout: post
 title: "Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service"
 author: "USDA-NRCS"
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: usda2008hydrogeomorphic
-excerpt: "Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service"
 tags:
   - wetland-classes
   - peatland classification
   - wetland classification
-date: '2006-02-01 11:27'
-modified: '2006-02-01 T18:17:25.000Z'
+date: '2008-02-01 11:27'
+modified: '2020-02-01 T18:17:25.000Z'
 comments: true
 share: true
 abstract: "Abstract"
+review: "An extension of the Hydrogeomorphic (HGM) wetland classification system proposed by Birnsion (1993), Smith et al (1995) and Brinson and Malvarez (2002).
+
+´It is important to note that in keeping with HGM principles, subclasses must be distinguished on the basis of morphological characteristics, water source, and/or hydrodynamics.
+
+The core part of the article is examples on how to expand the 7 classes identified by Smith et al., 1995.
+
+Even if sympathetic, it is difficult to use with the biophysical map data I have, while at the same time dis-allowing using data on e.g. climate or vegetation."
 ---
 
 @article{usda2008hydrogeomorphic,
   title={Hydrogeomorphic Wetland Classification System: An Overview and Modification to Better Meet the Needs of the Natural Resources Conservation Service},
-  author={USDA-NRCS,
+  author={USDA-NRCS},
   year={2008}
 }
-
-An extension of the Hydrogeomorphic (HGM) wetland classification system proposed by Birnsion (1993), Smith et al (1995) and Brinson and Malvarez (2002).
-
-#### HGM subclasses
-
-"It is important to note that in keeping with HGM principles, subclasses must be distinguished on the basis of morphological characteristics, water source, and/or hydrodynamics."
-
-The core part of the article is examples on how to expand the 7 classes identified by Smith et al., 1995.
-
-Even if sympathetic, it is difficult to use with the biophysical map data I have, while at the same time dis-allowing using data on e.g. climate or vegetation.

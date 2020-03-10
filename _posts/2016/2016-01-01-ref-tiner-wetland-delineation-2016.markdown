@@ -2,10 +2,9 @@
 layout: post
 title: "Wetland Delineation: Overview"
 author: "Tiner, R."
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: tiner2016delineation
-excerpt: "Wetland Delineation: Overview"
 tags:
   - wetland-classes
   - delineation
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @article{tiner2016delineation,
   title={Wetland Delineation: Overview},
   author={Tiner, Ralph W},

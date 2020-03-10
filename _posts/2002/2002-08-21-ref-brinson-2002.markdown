@@ -2,10 +2,9 @@
 layout: post
 title: "Temperate freshwater wetlands: types, status, and threats"
 author: "Brinson, M. M. and Malvárez, A. I."
-categories: literature
+categories: reference
 DOI: 10.1017/S0376892902000085
 citationkey: brinson2002
-excerpt: "Temperate freshwater wetlands: types, status, and threats"
 tags:
   - wetland-classes
   - Hydrogeomorphic

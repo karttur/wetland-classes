@@ -11,6 +11,10 @@
   url: /draft/
   include: 'N'
 
+- title: References
+  url: /reference/
+  include: 'N'
+
 - title: Literature
   url: /literature/
   include: 'N'

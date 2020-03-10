@@ -2,10 +2,9 @@
 layout: post
 title: "Inventory and classification of wetlands in India"
 author: "Gopal, B and Sah, Malavika"
-categories: literature
+categories: reference
 DOI: 00000
 citationkey: gopal1995inventory
-excerpt: "Inventory and classification of wetlands in India"
 tags:
   - wetland-classes
   - india
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @incollection{gopal1995inventory,
   title={Inventory and classification of wetlands in India},
   author={Gopal, B and Sah, Malavika},

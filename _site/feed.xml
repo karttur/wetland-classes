@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-01T21:29:34+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/literature/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-grenfell-2019/">&lt;p&gt;The article propose a genetic classification system that focuses on the mode of wetland formation, and is based on the understanding that genetic processes impact on the outcome hydrology, sedimentology, geomorphology, ecosystem service provision, and long-term dynamics of wetlands in drylands.&lt;/p&gt;
-
-&lt;p&gt;This paper proposes a new genetic geomorphic classification system that acknowledges the role of geomorphology in wetland formation (Tooth et al., 2015), and aims to connect observable geomorphic features in the landscape with the processes that created them (Buffington and Montgomery, 2013; Lisenby et al., 2019).
-…
-The system does not consider hydroperiod explicitly, but rather aims to describe landscape setting and landform, and consider hydrologically-linked processes of sediment erosion, transport and deposition that may be associated with each wetland.&lt;/p&gt;
-
-&lt;p&gt;“Valley-bottom wetlands become vulnerable to incision once a threshold slope (sensu Schumm, 1979) is exceeded for a particular catchment size and rainfall (Ellery et al., 2009, 2016). This concept was extended by Tooth (2018) for meandering river floodplain wetlands, through consideration of a threshold of wetland dynamics determined by interactions between discharge, slope, and sediment availability (supply), where systems subject to sudden and substantial morphological changes may be separated from systems subject to gradual and relatively continuous adjustments of form.”&lt;/p&gt;
-
-&lt;p&gt;The Cowardin et al. (1979) wetland definition has been used as the starting point for several wetland hydrogeomorphic classification systems, including those of Cowardin and Golet (1995), Brinson (1993) and Semeniuk and Semeniuk (1995). According to Finlayson and van der Valk (1995), the primary reason for developing a classification system is to support wetland inventory by standardising and defining terms to describe wetland types to allow successful wetland conservation and management. We argue that a wetland classification system can be more than a system for inventory, and that it can also be used as a tool to improve understanding of wetland processes and dynamics (Kondolf and Piégay, 2016).&lt;/p&gt;
-
-&lt;p&gt;A failure to appropriately conceptualise natural and human induced trajectories of change in wetlands, in tandem with a lack of appreciation of the importance of longitudinal (dis)connectivity, can result in poor outcomes for wetland restoration in dryland environments.&lt;/p&gt;
-
-&lt;p&gt;the hydrogeomorphic classification scheme currently in use in South Africa, developed by Ewart-Smith et al. (2006) and Ollis et al. (2015), incorporates very little geomorphological insight beyond consideration of the landscape setting, and emphasises “product” (landscape setting) over “process” (dynamic feedbacks between process and form) geomorphology (Lisenby et al., 2019). The result is that short-term hydrological processes are considered the master variable in wetlands with developmental histories that in many cases extend over several millennia, and have been shaped by a highly complex interplay between a geological template and dynamic flows and fluxes of earth surface material (Tooth and McCarthy, 2007; Lisenby et al., 2019).&lt;/p&gt;
-
-&lt;p&gt;Without recognising landscape dynamics, wetland restoration efforts are unlikely to realise the full ecosystem performance that is sought.&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="wetland restoration" /><category term="wetland management" /><category term="drylands" /><summary type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</summary></entry><entry><title type="html">Wetland classification schema</title><link href="http://localhost:4000/draft/wetland-class-schema/" rel="alternate" type="text/html" title="Wetland classification schema" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/draft/wetland-class-schema</id><content type="html" xml:base="http://localhost:4000/draft/wetland-class-schema/">&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-10T11:50:20+01:00</updated><id>http://localhost:4000/</id><title type="html">Geo Imagine Developer</title><subtitle>script your own Earth</subtitle><entry><title type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</title><link href="http://localhost:4000/reference/ref-jtootchi-multi-2019/" rel="alternate" type="text/html" title="Multi-source global wetland maps combining surface water imagery and groundwater constraints" /><published>2019-11-08T11:27:00+01:00</published><updated>2019-11-08T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-jtootchi-multi-2019</id><content type="html" xml:base="http://localhost:4000/reference/ref-jtootchi-multi-2019/">&lt;p&gt;@article{tootchi2019multi,
+  title={Multi-source global wetland maps combining surface water imagery and groundwater constraints},
+  author={Tootchi, Ardalan and Jost, Anne and Ducharne, Agn{`e}s},
+  journal={Earth System Science Data},
+  volume={11},
+  pages={189–220},
+  year={2019}
+}&lt;/p&gt;</content><author><name>Tootchi, Ardalan and Jost, Anne and Ducharne, Agnes</name></author><category term="wetland" /><category term="global" /><category term="indicators" /><category term="index" /><summary type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</summary></entry><entry><title type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</title><link href="http://localhost:4000/reference/ref-grenfell-2019/" rel="alternate" type="text/html" title="A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands" /><published>2019-11-05T11:27:00+01:00</published><updated>2019-11-05T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-grenfell-2019</id><content type="html" xml:base="http://localhost:4000/reference/ref-grenfell-2019/">&lt;p&gt;@article{grenfell2019genetic,
+  title={A genetic geomorphic classification system for southern African palustrine wetlands: global implications for the management of wetlands in drylands},
+  author={Grenfell, Suzanne Elaine and Grenfell, Michael Cyril and Ellery, William Nolan and Job, Nancy and Walters, Damian},
+  journal={Frontiers in Environmental Science},
+  volume={7},
+  pages={174},
+  year={2019},
+  publisher={Frontiers}
+}&lt;/p&gt;</content><author><name>Grenfell, S et al.</name></author><category term="wetland-classes" /><category term="wetland geomorphology" /><category term="wetland classification" /><category term="wetland restoration" /><category term="wetland management" /><category term="drylands" /><summary type="html">A Genetic Geomorphic Classification System for Southern African Palustrine Wetlands: Global Implications for the Management of Wetlands in Drylands</summary></entry><entry><title type="html">Wetland classification schema</title><link href="http://localhost:4000/draft/wetland-class-schema/" rel="alternate" type="text/html" title="Wetland classification schema" /><published>2019-10-22T11:27:00+02:00</published><updated>2019-10-22T11:27:00+02:00</updated><id>http://localhost:4000/draft/wetland-class-schema</id><content type="html" xml:base="http://localhost:4000/draft/wetland-class-schema/">&lt;h2 id=&quot;reviews-and-overviews-of-different-approaches&quot;&gt;Reviews and overviews of different approaches&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -234,7 +235,7 @@ Wetland Classification: Overview&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.env.gov.yk.ca/animals-habitat/documents/canadian_wetland_classification_system.pdf&quot;&gt;National Wetlands Working Group. 1997. The Canadian Wetland Classification System, 2nd Edition. Warner, B.G. and C.D.A. Rubec (eds.), Wetlands Research Centre, University of Waterloo, Waterloo, ON, Canada. 68 p.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.ramsar.org/sites/default/files/forum/wi/ACF357.pdf&quot;&gt;Classification of natural inland, coastal, and anthropogenic wetlands - a proposal to the Ramsar Bureau
-for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</title><link href="http://localhost:4000/literature/ref-oneill-2019/" rel="alternate" type="text/html" title="Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas" /><published>2019-10-05T11:27:00+02:00</published><updated>2019-10-05T11:27:00+02:00</updated><id>http://localhost:4000/literature/ref-oneill-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-oneill-2019/">&lt;p&gt;@article{oneill2019himalaywetland,
+for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="wetland" /><category term="classification" /><category term="categorisation" /><summary type="html">Literature on wetland classifications and classification systems</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A" /></entry><entry><title type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</title><link href="http://localhost:4000/reference/ref-oneill-2019/" rel="alternate" type="text/html" title="Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas" /><published>2019-10-05T11:27:00+02:00</published><updated>2019-10-05T11:27:00+02:00</updated><id>http://localhost:4000/reference/ref-oneill-2019</id><content type="html" xml:base="http://localhost:4000/reference/ref-oneill-2019/">&lt;p&gt;@article{oneill2019himalaywetland,
   title={Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas},
   author={O’Neill, Alexander R},
   journal={Global Ecology and Conservation},
@@ -242,22 +243,7 @@ for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></autho
   pages={e00715},
   year={2019},
   publisher={Elsevier}
-}&lt;/p&gt;</content><author><name>O'Neill, Alexander R</name></author><category term="wetland-classes" /><category term="mapping" /><category term="remote sesning" /><category term="himalays" /><summary type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</summary></entry><entry><title type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis</title><link href="http://localhost:4000/literature/ref-xu-peatmap-2018/" rel="alternate" type="text/html" title="PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-xu-peatmap-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-xu-peatmap-2018/">&lt;p&gt;@article{xu2018peatmap,
-  title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis},
-  author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph},
-  journal={Catena},
-  volume={160},
-  pages={134–140},
-  year={2018},
-  publisher={Elsevier}
-}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="peatland" /><category term="metastudy" /><category term="remote sensing" /><category term="global" /><summary type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis)</summary></entry><entry><title type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</title><link href="http://localhost:4000/literature/ref-jtootchi-multi-2019/" rel="alternate" type="text/html" title="Multi-source global wetland maps combining surface water imagery and groundwater constraints" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-jtootchi-multi-2019</id><content type="html" xml:base="http://localhost:4000/literature/ref-jtootchi-multi-2019/">&lt;p&gt;@article{tootchi2019multi,
-  title={Multi-source global wetland maps combining surface water imagery and groundwater constraints},
-  author={Tootchi, Ardalan and Jost, Anne and Ducharne, Agn{`e}s},
-  journal={Earth System Science Data},
-  volume={11},
-  pages={189–220},
-  year={2019}
-}&lt;/p&gt;</content><author><name>Tootchi, Ardalan and Jost, Anne and Ducharne, Agnes</name></author><category term="wetland" /><category term="global" /><category term="indicators" /><category term="index" /><summary type="html">Multi-source global wetland maps combining surface water imagery and groundwater constraints</summary></entry><entry><title type="html">Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)</title><link href="http://localhost:4000/literature/ref-ji-daily-water-modis-2018/" rel="alternate" type="text/html" title="Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001--2016)" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-ji-daily-water-modis-2018</id><content type="html" xml:base="http://localhost:4000/literature/ref-ji-daily-water-modis-2018/">&lt;p&gt;@article{ji2018dailywatermodis,
+}&lt;/p&gt;</content><author><name>O'Neill, Alexander R</name></author><category term="wetland-classes" /><category term="mapping" /><category term="remote sesning" /><category term="himalays" /><summary type="html">Evaluating high-altitude Ramsar wetlands in the Eastern Himalayas</summary></entry><entry><title type="html">Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)</title><link href="http://localhost:4000/reference/ref-ji-daily-water-modis-2018/" rel="alternate" type="text/html" title="Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001--2016)" /><published>2018-11-08T11:27:00+01:00</published><updated>2018-11-08T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-ji-daily-water-modis-2018</id><content type="html" xml:base="http://localhost:4000/reference/ref-ji-daily-water-modis-2018/">&lt;p&gt;@article{ji2018dailywatermodis,
   title={Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)},
   author={Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang},
   journal={Water Resources Research},
@@ -266,89 +252,36 @@ for global application&lt;/a&gt;&lt;/p&gt;</content><author><name></name></autho
   pages={10–270},
   year={2018},
   publisher={Wiley Online Library}
-}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="wetness" /><category term="inundation" /><category term="remote sensing" /><category term="modis" /><summary type="html">Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001--2016)</summary></entry><entry><title type="html">USA Wetlands: NWI-Plus Classification System</title><link href="http://localhost:4000/literature/ref-finlayson-wetland-types-2016/" rel="alternate" type="text/html" title="USA Wetlands: NWI-Plus Classification System" /><published>2016-11-08T11:27:00+01:00</published><updated>2016-11-08T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-finlayson-wetland-types-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-finlayson-wetland-types-2016/">&lt;p&gt;@article{finlayson2016typesdistro,
-  title={Wetland types and distribution},
-  author={Finlayson, C Max and Milton, G Randy and Prentice, R Crawford},
-  journal={The Wetland Book: II: Distribution, Description and Conservation},
-  pages={1–17},
-  year={2016},
+}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="wetness" /><category term="inundation" /><category term="remote sensing" /><category term="modis" /><summary type="html">@article{ji2018dailywatermodis, title={Construction of the 500-m Resolution Daily Global Surface Water Change Database (2001–2016)}, author={Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang}, journal={Water Resources Research}, volume={54}, number={12}, pages={10–270}, year={2018}, publisher={Wiley Online Library} }</summary></entry><entry><title type="html">PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis</title><link href="http://localhost:4000/reference/ref-xu-peatmap-2018/" rel="alternate" type="text/html" title="PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-xu-peatmap-2018</id><content type="html" xml:base="http://localhost:4000/reference/ref-xu-peatmap-2018/">&lt;p&gt;@article{xu2018peatmap,
+  title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis},
+  author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph},
+  journal={Catena},
+  volume={160},
+  pages={134–140},
+  year={2018},
+  publisher={Elsevier}
+}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="peatland" /><category term="metastudy" /><category term="remote sensing" /><category term="global" /><summary type="html">@article{xu2018peatmap, title={PEATMAP: Refining estimates of global peatland distribution based on a meta-analysis}, author={Xu, Jiren and Morris, Paul J and Liu, Junguo and Holden, Joseph}, journal={Catena}, volume={160}, pages={134–140}, year={2018}, publisher={Elsevier} }</summary></entry><entry><title type="html">A new synergistic approach for monitoring wetlands using Sentinels-1 and 2 data with object-based machine learning algorithm</title><link href="http://localhost:4000/reference/ref-whyte-sentinel-wetlands-2018/" rel="alternate" type="text/html" title="A new synergistic approach for monitoring wetlands using Sentinels-1 and 2 data with object-based machine learning algorithm" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-whyte-sentinel-wetlands-2018</id><content type="html" xml:base="http://localhost:4000/reference/ref-whyte-sentinel-wetlands-2018/">&lt;p&gt;@article{whyte2018sentinelwetland,
+  title={A new synergistic approach for monitoring wetlands using Sentinels-1 and 2 data with object-based machine learning algorithms},
+  author={Whyte, Andrew and Ferentinos, Konstantinos P and Petropoulos, George P},
+  journal={Environmental modelling \&amp;amp; software},
+  volume={104},
+  pages={40–54},
+  year={2018},
+  publisher={Elsevier}
+}&lt;/p&gt;</content><author><name>Whyte, Andrew and Ferentinos, Konstantinos P and Petropoulos, George P</name></author><category term="wetland" /><category term="classification" /><category term="inventories" /><summary type="html">@article{whyte2018sentinelwetland, title={A new synergistic approach for monitoring wetlands using Sentinels-1 and 2 data with object-based machine learning algorithms}, author={Whyte, Andrew and Ferentinos, Konstantinos P and Petropoulos, George P}, journal={Environmental modelling \&amp;amp; software}, volume={104}, pages={40–54}, year={2018}, publisher={Elsevier} }</summary></entry><entry><title type="html">Comparison of random forest, k-nearest neighbor, and support vector machine classifiers for land cover classification using Sentinel-2 imagery</title><link href="http://localhost:4000/reference/ref-tanh-MLcompRS-2018/" rel="alternate" type="text/html" title="Comparison of random forest, k-nearest neighbor, and support vector machine classifiers for land cover classification using Sentinel-2 imagery" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-tanh-MLcompRS-2018</id><content type="html" xml:base="http://localhost:4000/reference/ref-tanh-MLcompRS-2018/">&lt;p&gt;@article{thanh2018MLcompRS,
+  title={Comparison of random forest, k-nearest neighbor, and support vector machine classifiers for land cover classification using Sentinel-2 imagery},
+  author={Thanh Noi, Phan and Kappas, Martin},
+  journal={Sensors},
+  volume={18},
+  number={1},
+  pages={18},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}&lt;/p&gt;</content><author><name>Ji, Luyan and Gong, Peng and Wang, Jie and Shi, Jiancheng and Zhu, Zhiliang</name></author><category term="classification" /><category term="remote sensing" /><category term="machine learning" /><summary type="html">@article{thanh2018MLcompRS, title={Comparison of random forest, k-nearest neighbor, and support vector machine classifiers for land cover classification using Sentinel-2 imagery}, author={Thanh Noi, Phan and Kappas, Martin}, journal={Sensors}, volume={18}, number={1}, pages={18}, year={2018}, publisher={Multidisciplinary Digital Publishing Institute} }</summary></entry><entry><title type="html">South African Wetlands: Classification of Ecosystem Types</title><link href="http://localhost:4000/reference/ref-ollis-za-wetland-2018/" rel="alternate" type="text/html" title="South African Wetlands: Classification of Ecosystem Types" /><published>2018-01-01T11:27:00+01:00</published><updated>2018-01-01T11:27:00+01:00</updated><id>http://localhost:4000/reference/ref-ollis-za-wetland-2018</id><content type="html" xml:base="http://localhost:4000/reference/ref-ollis-za-wetland-2018/">&lt;p&gt;@incollection{ollis2018zawetlands,
+  title={South African Wetlands: Classification of Ecosystem Types},
+  author={Ollis DJ and Day JA and Mbona N and Dini JA},
+  booktitle={The Wetland Book: I: Structure and Function, Management and Methods”},
+  pages={1533–1544},
+  year={2018},
   publisher={Springer}
-}&lt;/p&gt;
-
-&lt;p&gt;Overview of global wetland types and their distribution. Summary tables on continental to global wetland collation. Some comparisons with Lehner and Döll.&lt;/p&gt;</content><author><name>Finlayson C.M., Milton G.R., Prentice R.C.</name></author><category term="wetland-classes" /><category term="global" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry><entry><title type="html">Wetland Delineation: Overview</title><link href="http://localhost:4000/literature/ref-tiner-wetland-delineation-2016/" rel="alternate" type="text/html" title="Wetland Delineation: Overview" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-tiner-wetland-delineation-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-tiner-wetland-delineation-2016/">&lt;p&gt;@article{tiner2016delineation,
-  title={Wetland Delineation: Overview},
-  author={Tiner, Ralph W},
-  journal={The Wetland Book: I: Structure and Function, Management and Methods},
-  pages={1–15},
-  year={2016},
-  publisher={Springer}
-}&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="delineation" /><category term="indicators" /><summary type="html">Wetland Delineation: Overview</summary></entry><entry><title type="html">USA Wetlands: NWI-Plus Classification System</title><link href="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/" rel="alternate" type="text/html" title="USA Wetlands: NWI-Plus Classification System" /><published>2016-01-01T11:27:00+01:00</published><updated>2016-01-01T11:27:00+01:00</updated><id>http://localhost:4000/literature/ref-tiner-usa-wetlands-2016</id><content type="html" xml:base="http://localhost:4000/literature/ref-tiner-usa-wetlands-2016/">&lt;p&gt;@article{tiner2016usa,
-  title={USA Wetlands: NWI-Plus Classification System},
-  author={Tiner, Ralph W},
-  journal={The Wetland Book: I: Structure and Function, Management and Methods},
-  pages={1–8},
-  year={2016},
-  publisher={Springer}
-}&lt;/p&gt;
-
-&lt;p&gt;How the US tries to extend the Cowardin classification system with Brinsons geomorphic schemas.&lt;/p&gt;
-
-&lt;h3 id=&quot;llww&quot;&gt;LLWW&lt;/h3&gt;
-
-&lt;p&gt;The geomorphic characteristics LLWW, stands for:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;landscape position,&lt;/li&gt;
-  &lt;li&gt;landform,&lt;/li&gt;
-  &lt;li&gt;water flow path and&lt;/li&gt;
-  &lt;li&gt;waterbody type&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;landscape-position&quot;&gt;Landscape position&lt;/h5&gt;
-
-&lt;p&gt;Position relative to a water body (not &lt;strong&gt;the&lt;/strong&gt; water body &lt;em&gt;per se&lt;/em&gt;?):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;marine&lt;/li&gt;
-  &lt;li&gt;estuatine&lt;/li&gt;
-  &lt;li&gt;lotic&lt;/li&gt;
-  &lt;li&gt;lentic&lt;/li&gt;
-  &lt;li&gt;terrene&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These are, in my mind, not landscape positions, but juxtapositions vis-a-vis lateral water sources. I think the term is misleading. In my classification schema I call this property &lt;strong&gt;juxtaposition&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;landform&quot;&gt;Landform&lt;/h5&gt;
-
-&lt;p&gt;Physical shape of wetlands.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;basin&lt;/li&gt;
-  &lt;li&gt;flat&lt;/li&gt;
-  &lt;li&gt;floodplain&lt;/li&gt;
-  &lt;li&gt;fringe&lt;/li&gt;
-  &lt;li&gt;island&lt;/li&gt;
-  &lt;li&gt;slope&lt;/li&gt;
-  &lt;li&gt;peatland&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is a mixture of textural and contextural landforms. I do not think they are well defined. In my classification schema the two properies &lt;strong&gt;textural&lt;/strong&gt; and &lt;strong&gt;contextural&lt;/strong&gt; are used for these properties.&lt;/p&gt;
-
-&lt;h5 id=&quot;water-flow&quot;&gt;Water flow&lt;/h5&gt;
-
-&lt;p&gt;Defines the direction of flow of water associated with the wetland.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;outflow&lt;/li&gt;
-  &lt;li&gt;throughflow&lt;/li&gt;
-  &lt;li&gt;inflow&lt;/li&gt;
-  &lt;li&gt;vertical flow&lt;/li&gt;
-  &lt;li&gt;bidirectional non-tidal&lt;/li&gt;
-  &lt;li&gt;groundwater-connected&lt;/li&gt;
-  &lt;li&gt;tidal (5 subclasses)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These properties can not be captured by on a pixel scale, but requires a thematic classification. Instead the water balance of each cell is defined, and in my classification this is then divided into &lt;strong&gt;water source&lt;/strong&gt; and &lt;strong&gt;water fluctuation&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h5 id=&quot;water-body-type&quot;&gt;Water body type&lt;/h5&gt;
-
-&lt;p&gt;Just listed, not elaborated in the above article.&lt;/p&gt;</content><author><name>Tiner, R.</name></author><category term="wetland-classes" /><category term="USA" /><category term="NWI-Plus" /><category term="LLWW" /><category term="Cowardin" /><category term="Brinson" /><category term="hydrogenomorphic" /><summary type="html">USA Wetlands: NWI-Plus Classification System</summary></entry></feed>
+}&lt;/p&gt;</content><author><name>Ollis DJ and Day JA and Mbona N and Dini JA</name></author><category term="wetland" /><category term="classification" /><category term="South Africa" /><summary type="html">@incollection{ollis2018zawetlands, title={South African Wetlands: Classification of Ecosystem Types}, author={Ollis DJ and Day JA and Mbona N and Dini JA}, booktitle={The Wetland Book: I: Structure and Function, Management and Methods”}, pages={1533–1544}, year={2018}, publisher={Springer} }</summary></entry></feed>

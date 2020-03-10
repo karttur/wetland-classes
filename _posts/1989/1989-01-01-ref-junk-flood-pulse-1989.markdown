@@ -2,10 +2,9 @@
 layout: post
 title: "The flood pulse concept in river-floodplain systems"
 author: "Junk, Wolfgang J and Bayley, Peter B and Sparks, Richard E and others"
-categories: literature
+categories: reference
 DOI: 00000
 citationkey: junk1989flood
-excerpt: "The flood pulse concept in river-floodplain systems"
 tags:
   - wetland-classes
   - Flood pulse concept
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{junk1989flood,
   title={The flood pulse concept in river-floodplain systems},
   author={Junk, Wolfgang J and Bayley, Peter B and Sparks, Richard E and others},

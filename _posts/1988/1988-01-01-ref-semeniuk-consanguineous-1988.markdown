@@ -2,8 +2,8 @@
 layout: post
 title: "Consanguineous wetlands and their distribution in the Darling system, southwestern Australia"
 author: "Semeniuk, C.A."
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: semeniuk1988consanguineous
 excerpt: "Consanguineous wetlands and their distribution in the Darling system, southwestern Australia"
 tags:
@@ -18,7 +18,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{semeniuk1988consanguineous,
   title={Consanguineous wetlands and their distribution in the Darling system, southwestern Australia},
   author={Semeniuk, CA},

@@ -2,10 +2,9 @@
 layout: post
 title: "Early Applications of Remote Sensing for Mapping Wetlands."
 author: "Tiner, Ralph W}"
-categories: literature
-DOI: 0000
+categories: reference
+DOI: False
 citationkey: tiner2015crcearly
-excerpt: "Early Applications of Remote Sensing for Mapping Wetlands."
 tags:
   - wetlands
   - remote sensing
@@ -16,8 +15,8 @@ modified: '2019-12-31 11:27'
 comments: true
 share: true
 abstract: ""
+reference: true
 ---
-
 @article{tiner2015crcearly,
   title={Early Applications of Remote Sensing for Mapping Wetlands},
   author={Tiner, Ralph W},

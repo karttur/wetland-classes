@@ -2,10 +2,9 @@
 layout: post
 title: "The primary indicators method—a practical approach to wetland recognition and delineation in the United States"
 author: "Tiner, Ralph W"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1007/BF03160865
 citationskey: tiner1993primary
-excerpt: "The primary indicators method—a practical approach to wetland recognition and delineation in the United States"
 tags:
   - wetland
   - classification
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{tiner1993primary,
   title={The primary indicators method—a practical approach to wetland recognition and delineation in the United States},
   author={Tiner, Ralph W},

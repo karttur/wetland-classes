@@ -2,10 +2,9 @@
 layout: post
 title: "Classification and Inventory of the World’s Wetlands"
 author: "Finlayson, C Max and van der Valk, Arnold"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1007/978-94-007-6173-5_186-1
 citationkey: finlayson2016typesdistro
-excerpt: "Classification and Inventory of the World’s Wetlands"
 tags:
   - wetland-classes
   - global
@@ -16,7 +15,6 @@ comments: true
 share: true
 abstract: "Abstract"
 ---
-
 @book{finlayson2012classification,
   title={Classification and Inventory of the World’s Wetlands},
   author={Finlayson, C Max and van der Valk, Arnold},

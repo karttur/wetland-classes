@@ -2,10 +2,9 @@
 layout: post
 title: "Canadian wetlands: environmental gradients and classification"
 author: "Zoltai, S.C and D. H. Vitt"
-categories: literature
+categories: reference
 DOI: https://doi.org/10.1007/BF00045195
 citationkey: zoltai1995canadian
-excerpt: "Canadian wetlands: environmental gradients and classification "
 tags:
   - wetland-classes
   - classification
@@ -15,6 +14,15 @@ modified: '2019-11-05 T18:17:25.000Z'
 comments: true
 share: true
 abstract: "The Canadian Wetland Classification System is based on manifestations of ecological processes in natural wetland ecosystems. It is hierarchical in structure and designed to allow identification at the broadest levels (class, form, type) by non-experts in different disciplines. The various levels are based on broad physiognomy and hydrology (classes); surface morphology (forms); and vegetation physiognomy (types). For more detailed studies, appropriate characterization and subdivisions can be applied. For ecological studies the wetlands can be further characterized by their chemical environment, each with distinctive indicator species, acidity, alkalinity, and base cation content. For peatlands, both chemical and vegetational differences indicate that the primary division should be acidic, Sphagnum-dominated bogs and poor fens on one hand and circumneutral to alkaline, brown moss-dominated rich fens on the other. Non peat-forming wetlands (marshes, swamps) lack the well developed bryophyte ground layer of the fens and bogs, and are subject to severe seasonal water level fluctuations. The Canadian Wetland Classification System has been successfully used in Arctic, Subarctic, Boreal and Temperate regions of Canada."
+review: "Discussion on Canadian wetland classification system."
 ---
-
-Discussion on Canadian wetland classification system.
+@article{zoltai1995canadian,
+  title={Canadian wetlands: environmental gradients and classification},
+  author={Zoltai, SC and Vitt, DH},
+  journal={Vegetatio},
+  volume={118},
+  number={1-2},
+  pages={131--137},
+  year={1995},
+  publisher={Springer}
+}

@@ -2,10 +2,9 @@
 layout: post
 title: "Radar and Optical Image Fusion and Mapping of Wetland Resources."
 author: "Ramsey III, Elijah and Rangoonwala, Amina"
-categories: literature
-DOI: 00000
+categories: reference
+DOI: False
 citationkey: ramsey2015fusion
-excerpt: "Radar and Optical Image Fusion and Mapping of Wetland Resources."
 tags:
   - wetlands
   - remote sensing
@@ -18,9 +17,8 @@ comments: true
 share: true
 abstract: ""
 ---
-
 @article{ramsey2015fusion,
-  title={8 Radar and Optical Image Fusion and Mapping of Wetland Resources},
+  title={Radar and Optical Image Fusion and Mapping of Wetland Resources},
   author={Ramsey III, Elijah and Rangoonwala, Amina},
   journal={Remote Sensing of Wetlands: Applications and Advances},
   pages={155},
